@@ -1,0 +1,493 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Juncture privacy policy</title><meta name="description" content="What Juncture reads, where it goes, and what it never does.">
+<style>:root{color-scheme:light}body{margin:0;background:#F4F1EA;color:#0B0B0C;font:17px/1.55 -apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif}
+main{max-width:40rem;margin:0 auto;padding:48px 20px 80px}h1{font-size:2rem;line-height:1.15;letter-spacing:-.01em}h2{margin-top:2.2em;font-size:1.25rem}
+a{color:#865800}code{background:#E8E4DB;padding:.1em .3em;border-radius:4px;font-size:.92em}hr{border:0;border-top:1px solid rgba(11,11,12,.12);margin:2.5em 0}
+header{display:flex;align-items:center;gap:12px;margin-bottom:32px}header span{letter-spacing:.14em;font-size:.8rem;text-transform:uppercase;color:rgba(11,11,12,.6)}
+footer{margin-top:64px;font-size:.85rem;color:rgba(11,11,12,.6)}</style></head><body><main>
+<header><svg width="22" height="22" viewBox="0 0 100 100" aria-hidden="true"><path d="M30 20 A40 40 0 1 0 72 22" fill="none" stroke="#F0B429" stroke-width="12"/><circle cx="72" cy="22" r="9" fill="#6A4CFF"/></svg><span>Juncture</span></header>
+<h1 id="juncture-privacy-policy">Juncture Privacy Policy</h1>
+<p><strong>Last updated: 26 October 2026</strong></p>
+<p>Juncture suggests what workout to do and when. To do that it needs to know when you
+are free and how recovered you are. This page explains exactly what it reads,
+where that information goes, and what it never does.</p>
+<p>The short version: Juncture has no accounts, no servers of its own, and no
+analytics. Your health data never leaves your phone. Your location is sent to
+Apple — and only Apple — when Juncture looks up gyms near you. Nothing is ever sold,
+and nothing is ever used for advertising.</p>
+<p>Juncture is published by Patrick Foley, an individual developer in the United States.
+You can reach us at patfoley4291@gmail.com.</p>
+<hr />
+<h2 id="there-is-no-juncture-server">There is no Juncture server</h2>
+<p>This is the most important thing to understand, because almost everything else
+follows from it.</p>
+<p>the developer does not operate a backend. There is no database with your
+name in it, no login, no user ID, no profile. Juncture is a program that runs on your
+iPhone and reads data that is already on your iPhone. We cannot see what Juncture
+sees, because there is nowhere for it to send that information to us — and no
+code in the app that would do so.</p>
+<p>That means some of the things a privacy policy normally promises — "you can ask
+us for a copy of your data", "we will delete your account" — do not apply in the
+usual way. There is no copy for us to send you and no account for us to delete.
+The section on <a href="#your-rights">your rights</a> explains what this means in practice.</p>
+<p>It also means this policy describes the app as it ships today. If a backend is
+ever added, this policy will change before that version is released.</p>
+<hr />
+<h2 id="health-data">Health data</h2>
+<p><strong>What Juncture reads from Apple Health</strong>, with your permission, and only after you
+grant it:</p>
+<ul>
+<li>Workouts (type, start time, duration, and active energy burned)</li>
+<li>Sleep analysis</li>
+<li>Heart-rate variability (SDNN)</li>
+<li>Resting heart rate</li>
+<li>Active energy</li>
+</ul>
+<p>Juncture also calculates your own 30-day averages for heart-rate variability and
+resting heart rate, and keeps those as a baseline. It does this on your phone.
+A heart-rate variability of 40 ms is excellent for one person and a warning sign
+for another, so the only reading that means anything is the comparison to your
+own normal.</p>
+<p><strong>What Juncture does with it:</strong> scores how recovered you are, and uses that to pick
+the intensity and type of session to suggest. The reasoning it shows you on
+screen is generated from these numbers.</p>
+<p><strong>Where it goes:</strong> nowhere. This data is read into memory on your device, used to
+produce a recommendation, and that is the end of it. There is no code path in
+Juncture that transmits health data anywhere — not to us, not to Apple beyond the
+Health app it came from, not to anyone.</p>
+<p><strong>What Juncture will never do with health data</strong>, in line with Apple's rules for
+apps that use HealthKit, and as a commitment to you regardless of those rules:</p>
+<ul>
+<li>Never use it for advertising or marketing of any kind.</li>
+<li>Never sell it, and never share it with a data broker.</li>
+<li>Never disclose it to a third party.</li>
+</ul>
+<p><strong>Juncture cannot write to Apple Health.</strong> This is not a promise about our intentions
+— the app's HealthKit entitlement requests read access only, and grants no write
+access at all. Nothing Juncture does can alter or add to your Health records.</p>
+<p>If you decline Health access, or grant it and then revoke it, Juncture still works.
+It falls back to example content and tells you on screen that it is doing so.
+You can review or change what Juncture can read at any time in the Health app, under
+Sharing → Apps.</p>
+<hr />
+<h2 id="calendar">Calendar</h2>
+<p>Juncture needs to know when you are free, which means reading your calendar.</p>
+<h3 id="your-devices-calendars">Your device's calendars</h3>
+<p>With your permission, Juncture reads the events in the calendars on your iPhone for
+today and the next seven days — including calendars you have subscribed through
+accounts like Google or Microsoft, because iOS presents those alongside the rest.
+It reads each event's title, start and end time, location if there is one, and
+whether you have declined the invitation (a meeting you turned down does not
+block your afternoon). It skips all-day events, which say nothing about whether
+you are busy.</p>
+<p>It uses this to find the gaps long enough to train in. Event titles and locations
+appear on Juncture's Plan screen so you can see your day in context; they are not
+analysed for anything else.</p>
+<p>Juncture also <strong>writes</strong> to your calendar, but only when you ask it to. Tapping
+"Hold it" creates a single event titled "Workout (held by Juncture)" in your default
+calendar, covering the window you held. Tapping "Add week to calendar" creates
+one event per planned session, titled after the session and ending in the same
+"(held by Juncture)". It writes nothing else, and it never modifies or deletes your
+existing events.</p>
+<p>All of this happens on your device, through iOS's own calendar system. None of it
+is transmitted anywhere.</p>
+<p>You can change or withdraw calendar access at any time in iOS Settings →
+Privacy &amp; Security → Calendars.</p>
+<h3 id="google-calendar-optional-and-off-unless-you-turn-it-on">Google Calendar (optional, and off unless you turn it on)</h3>
+<p>Juncture can connect directly to Google Calendar instead. When you connect a
+calendar, the app asks which one you want; nothing happens with Google unless you
+choose it and sign in.</p>
+<p>If you do connect it:</p>
+<ul>
+<li>Juncture signs you in using OAuth 2.0 with PKCE. You enter your Google password on
+  Google's own sign-in page, inside Apple's secure web authentication view.
+  <strong>Juncture never sees your Google password.</strong></li>
+<li>Juncture requests permission to read your calendars and to create events. It reads
+  your primary Google calendar for the next seven days, and creates the same
+  "(held by Juncture)" events when you hold a window or add the week.</li>
+<li>These requests go over the internet to Google's servers (<code>googleapis.com</code> and
+  <code>oauth2.googleapis.com</code>), carrying your access token and the date range being
+  queried. <strong>This is the one case where calendar information leaves your device.</strong>
+  It goes to Google, which already holds this calendar because it is your Google
+  account — it does not come to us, and we have no way to see it. Google's
+  handling of it is governed by Google's own privacy policy.</li>
+<li>The long-lived refresh token that keeps you signed in is stored in the iOS
+  Keychain, marked so that it stays on this one device: it is excluded from
+  iCloud backups and does not sync to your other devices.</li>
+</ul>
+<p>You can disconnect Google Calendar inside Juncture, which deletes that stored token
+from your device. <strong>Disconnecting in the app does not, by itself, withdraw the
+permission you gave at Google.</strong> To revoke that, go to
+myaccount.google.com → Security → Your connections to third-party apps, and
+remove Juncture. We recommend doing both.</p>
+<hr />
+<h2 id="location">Location</h2>
+<p>Juncture uses your location, with your permission, to show which gyms and studios are
+near you and how far away each one is. It asks for "when in use" access only —
+Juncture cannot see where you are when it is not open.</p>
+<p><strong>Your location is sent to Apple.</strong> We want to be precise about this, because it
+is the one piece of information Juncture handles that genuinely leaves your phone
+without you doing anything beyond opening the Map screen.</p>
+<p>Juncture finds nearby gyms using MapKit, Apple's maps service. To return results,
+MapKit sends your coordinate to Apple's servers along with the search. Drawing the
+map itself also involves requesting map imagery for the area you are looking at.
+This is Apple's service, processing that request; Apple's handling of it is
+governed by <a href="https://www.apple.com/legal/privacy/">Apple's privacy policy</a>.</p>
+<p><strong>We never receive your location.</strong> It goes from your phone to Apple and the
+results come back. There is no step in between where we see it, store it, or could
+retrieve it.</p>
+<p>A few details worth knowing:</p>
+<ul>
+<li>Juncture asks for accuracy of roughly 100 metres, which is all that is needed to
+  rank gyms by distance. It does not need or use your exact position.</li>
+<li>If you decline location access, the Map screen shows example venues and
+  says so. You can still search any city by name; that search sends the name
+  you typed to Apple, not your location.</li>
+<li>Opening a venue's "Apple Maps details" asks Apple for that place's card —
+  hours, photos and reviews — using Apple's identifier for the venue. That
+  request goes to Apple, not to us.</li>
+<li>Tapping "Directions" opens Apple Maps with the gym as the destination. From
+  that point you are in Apple Maps, and Apple's privacy policy governs what
+  happens there.</li>
+</ul>
+<p>You can change or withdraw location access at any time in iOS Settings →
+Privacy &amp; Security → Location Services.</p>
+<hr />
+<h2 id="class-schedules">Class schedules</h2>
+<p>Juncture shows class timetables for some gyms and studios. Those timetables are
+published by us as plain files, one per city, and the app downloads the file for
+the city you are in or searching. The download tells the file's host (GitHub,
+which serves the files for us) your IP address and which city's file you
+asked for, as any web request does. It carries nothing else: no identifier, no
+location more precise than "which city", no health or calendar data. We do not
+see these requests. The timetables themselves are public information published
+by the studios; the files are signed so the app can tell they came from us.</p>
+<hr />
+<h2 id="diagnostics">Diagnostics</h2>
+<p>Juncture keeps a small record of its own failures so that bugs can be found and fixed:
+crash, hang and slow-launch reports from iOS's MetricKit system, plus failures the
+app handled internally — a saved file it could not read, a calendar write that did
+not go through.</p>
+<p>These are stored in Juncture's own folder on your device, capped at the twelve most
+recent, and <strong>nothing is transmitted</strong>. There is no crash-reporting service, no
+third-party SDK, and no automatic upload. If you choose to send us a report to
+help with a bug, you do that deliberately — by copying it and emailing it to us —
+and we only ever see what you choose to send.</p>
+<p>Separately, Apple may provide us with anonymised crash reports from users who have
+opted in to sharing diagnostics with developers at the iOS level. That is Apple's
+system, not ours; you control it in iOS Settings → Privacy &amp; Security →
+Analytics &amp; Improvements.</p>
+<hr />
+<h2 id="what-juncture-stores-on-your-device">What Juncture stores on your device</h2>
+<p>That is the complete list. All of it is inside Juncture's own sandbox on your iPhone,
+where no other app can read it.</p>
+<ul>
+<li><strong>iOS Keychain:</strong> your Google Calendar refresh token, and only if you connected
+  Google Calendar. Marked device-only, so it is excluded from iCloud backups.</li>
+<li><strong>App preferences:</strong> two yes/no flags — whether Juncture has already asked
+  you for Health access, so it does not ask twice, and whether you have seen
+  the first-run introduction, so it is not shown again.</li>
+<li><strong>A small file of today's decisions:</strong> which workout you booked, held or logged,
+  whether you added the week ahead, whether you dismissed the
+  sample-data notice, and today's date. These are facts about today, so they are
+  discarded automatically when the date changes.</li>
+<li><strong>A training log:</strong> for each day on which Juncture made a recommendation using
+  your own Health or calendar data, one record of what it recommended, the
+  recovery figures it based that on (sleep hours, HRV, resting heart rate), and
+  what happened — whether you opened a booking, said you booked, logged a
+  workout, or a workout appeared in Apple Health later that day. Up to 365
+  days. This exists so Juncture can tell you how often its calls were taken, and it
+  is the one thing in the app that accumulates. You can see it and delete it in
+  Settings › Your history.</li>
+<li><strong>Saved venues:</strong> any gym or studio you bookmark, with its name, type,
+  coordinates, street address, phone number and website as Apple Maps listed
+  them, and when you saved it. Removable one at a time from the venue, or all
+  at once in Settings.</li>
+<li><strong>Diagnostic reports:</strong> as described above, up to twelve.</li>
+<li><strong>A snapshot for the home-screen widget:</strong> today's recommendation — its
+  name, the window and leave-by times, your readiness score, and whether you
+  held or booked it — written to a shared container that only Juncture and its
+  own widget can read, so the widget can show it without any access of its own.
+  Overwritten each time the call changes.</li>
+<li><strong>A Live Activity while a window is held:</strong> the session name, venue and the
+  window's times, shown by iOS in the Dynamic Island and on the lock screen as
+  a countdown to leaving. It is created and updated on your phone only — no
+  push notifications, no server — and ends when the window does.</li>
+<li><strong>One pending reminder</strong>, if you allow notifications: when you hold a
+  window, Juncture asks iOS to show a single notification fifteen minutes
+  before you need to leave for it, naming the session and the venue. It is
+  scheduled and delivered on your phone by iOS; nothing about it is sent
+  anywhere. Holding a different window replaces it, and the day's reset
+  removes it. Notifications can be turned off in iOS Settings at any time.</li>
+</ul>
+<p>Your health data and your calendar events are <strong>not</strong> in this list. Juncture does not
+keep its own copy of either. It reads them when it needs them and holds them in
+memory only while it is running.</p>
+<hr />
+<h2 id="links-to-other-apps-and-websites">Links to other apps and websites</h2>
+<p>From the booking flow, Juncture can open a studio's own booking page on the
+platform it uses (for example <code>mindbodyonline.com</code> or <code>momence.com</code>), the
+studio's website, ClassPass (<code>classpass.com</code>), or Apple Maps (<code>maps.apple.com</code>). Juncture does not take the
+booking itself — it decides what and when, then hands you over.</p>
+<p>When you tap one of these, Juncture opens the destination and sends no information
+about you with it. Once you are there, you are dealing with that company, and
+their privacy policy governs what they collect. We have no affiliate tracking, no
+referral identifiers, and no way to tell whether you went on to book anything —
+which is why Juncture asks you afterwards instead of assuming.</p>
+<hr />
+<h2 id="what-juncture-does-not-do">What Juncture does not do</h2>
+<p>Stated plainly, because these absences are the point:</p>
+<ul>
+<li><strong>No accounts.</strong> You never create one, so there is nothing to sign in to.</li>
+<li><strong>No servers run by us.</strong> None. See <a href="#there-is-no-juncture-server">above</a>.</li>
+<li><strong>No analytics.</strong> We do not know how many people use Juncture, which screens they
+  open, or what it recommends to them.</li>
+<li><strong>No advertising</strong>, no ad identifiers, no IDFA, no ad networks.</li>
+<li><strong>No tracking</strong> of you across other apps or websites, by any definition.</li>
+<li><strong>No third-party SDKs of any kind.</strong> Juncture is built entirely on Apple's own
+  frameworks, plus direct calls to Google Calendar if you connect it.</li>
+<li><strong>No sale of data</strong>, and no data broker relationships. There is nothing to sell
+  and no mechanism to sell it.</li>
+</ul>
+<hr />
+<h2 id="keeping-and-deleting-your-information">Keeping and deleting your information</h2>
+<p><strong>Deleting Juncture deletes everything Juncture stored.</strong> Removing the app removes its
+sandbox, which takes with it the Keychain token, the preference flag, the daily
+decisions file and the diagnostic reports. Because there is no server, there is
+no second copy anywhere. Nothing survives.</p>
+<p>Three honest qualifications:</p>
+<ol>
+<li><strong>Your Health and Calendar data is not Juncture's to delete.</strong> It lives in Apple
+   Health and in your calendars, which belong to you and to Apple. Deleting Juncture
+   stops Juncture reading them; it does not remove them, and it should not.</li>
+<li><strong>"(held by Juncture)" events stay in your calendar.</strong> Once written, those
+   events are yours. Deleting the app does not remove them — delete them in your
+   calendar app if you want them gone.</li>
+<li><strong>A Google Calendar connection must be revoked at Google.</strong> Deleting Juncture
+   removes the token from your phone, but the permission you granted is recorded
+   in your Google account until you remove it there, as described
+   <a href="#google-calendar-optional-and-off-unless-you-turn-it-on">above</a>.</li>
+</ol>
+<p>Short of deleting the app, you can withdraw any individual permission at any time
+in iOS Settings or the Health app, and Juncture will carry on working with less
+information.</p>
+<hr />
+<h2 id="legal-basis-if-you-are-in-the-eea-or-the-uk">Legal basis, if you are in the EEA or the UK</h2>
+<p>the developer has not determined whether the GDPR or the UK GDPR applies to
+it, and that determination depends on facts a lawyer should confirm — including
+where we are established and whether we are offering Juncture to people in the EU or
+UK. <strong>This section is written on the assumption that it may apply, and is flagged
+for legal review.</strong> We would rather be explicit about that than imply a certainty
+we do not have.</p>
+<p>On that assumption:</p>
+<ul>
+<li><strong>Health data is special-category data</strong> under Article 9 of the GDPR. Heart-rate
+  variability, resting heart rate, sleep and workout history all concern your
+  physical health, and the law treats them as needing stronger protection than
+  ordinary personal data. We handle them accordingly: read on your device, used
+  on your device, never transmitted.</li>
+<li><strong>Our basis for processing health data would be your explicit consent</strong> (Article
+  9(2)(a)), given through the iOS Health permission prompt, which names what Juncture
+  reads and why before you decide. Juncture does not read anything until you grant it,
+  and you can withdraw at any time in the Health app, with no loss of the app's
+  basic function.</li>
+<li><strong>For calendar and location</strong>, our basis would be your consent (Article
+  6(1)(a)), given through the corresponding iOS permission prompts, and equally
+  withdrawable in Settings.</li>
+<li><strong>We are not certain we are a "controller"</strong> of most of this information, since
+  we never receive it and have no ability to access it. Whether a developer whose
+  app processes data entirely on the user's own device is a controller of that data
+  is a real legal question, and it is one we have flagged for our lawyer rather
+  than asserting an answer to. Where we are, we intend to meet the obligations
+  that follow.</li>
+<li><strong>No international transfers by us.</strong> We do not transmit your information
+  anywhere, so there is no transfer mechanism to disclose. If you connect Google
+  Calendar, your calendar data moves between you and Google under Google's own
+  terms and transfer arrangements, not ours.</li>
+<li><strong>No automated decision-making with legal effect.</strong> Juncture recommends a workout.
+  It is a transparent set of rules, not a model, and it shows you its reasoning so
+  you can disagree with it. It makes no decision about you that has any legal or
+  comparable significance.</li>
+</ul>
+<hr />
+<h2 id="health-data-under-us-state-law">Health data under US state law</h2>
+<p>Several US states treat health information as a sensitive category requiring
+specific consent — including Washington's My Health My Data Act, Nevada's
+SB 370, and the sensitive-data provisions of the California Consumer Privacy Act
+and the comprehensive privacy laws of states such as Colorado, Connecticut and
+Virginia.</p>
+<p>Whether any of these apply to the developer depends on facts we cannot
+resolve here: where we are established, whether we meet each statute's threshold
+for being covered, and — most importantly — whether reading data on a user's own
+device and never receiving it counts as "collecting" or "processing" it under each
+law. Some of these statutes define consumer health data very broadly. <strong>We have
+flagged this for legal review and are not asserting a conclusion.</strong></p>
+<p>What we can tell you is what we actually do, which is the same under every one of
+them: Juncture reads your health data on your phone, with your explicit permission,
+uses it only to recommend a workout, never transmits it, never sells it, never
+shares it, and never uses it for advertising. We do not sell or share personal
+information for cross-context behavioural advertising, because we do not transmit
+personal information at all.</p>
+<hr />
+<h2 id="children">Children</h2>
+<p>Juncture is not intended for children. We ask that you be at least
+16 years old to use it.</p>
+<p>We do not knowingly collect information from children, and because the app has no
+accounts and no servers, we do not receive information from anyone of any age.
+Juncture does not ask your age, and we have no way to verify it.</p>
+<p>Because Juncture reads health data, a parent or guardian should think carefully before
+letting a child use it, and should be aware that training recommendations based on
+recovery signals are designed for adults.</p>
+<p>If you believe a child has used Juncture in a way that concerns you, contact us at
+patfoley4291@gmail.com and we will help as far as we are able — though in practice there
+is no stored information for us to locate or delete.</p>
+<hr />
+<h2 id="your-rights">Your rights</h2>
+<p>Depending on where you live, you may have the right to access your personal
+information, correct it, delete it, obtain a copy, object to its processing, or
+complain to a regulator.</p>
+<p>We want to be straightforward about what we can and cannot do, because a policy
+that promises a data export we could never produce would be worse than useless.</p>
+<p><strong>We hold no information about you.</strong> No account, no identifier, no record that
+you have ever installed Juncture. So:</p>
+<ul>
+<li><strong>Access and portability.</strong> We have nothing to give you, because we have
+  nothing. The information Juncture uses is already yours and already in your hands:
+  your workouts, sleep and heart data are in the Apple Health app, which can
+  export them; your events are in your calendar app; the handful of flags Juncture
+  stores are on your phone.</li>
+<li><strong>Deletion.</strong> You delete everything Juncture stored by deleting the app, as
+  described <a href="#keeping-and-deleting-your-information">above</a>. You do not need to
+  ask us, and we could not do it for you even if you did.</li>
+<li><strong>Correction.</strong> Anything Juncture gets wrong, it gets wrong because of what is in
+  Health or your calendar. Correct it there and Juncture's next recommendation
+  follows.</li>
+<li><strong>Withdrawing consent.</strong> Revoke any permission in the Health app or iOS
+  Settings, at any time, with immediate effect.</li>
+<li><strong>Objecting, or restricting processing.</strong> The processing happens on your device,
+  under permissions you control. Revoking a permission stops it.</li>
+<li><strong>Non-discrimination.</strong> We could not treat you differently for exercising a
+  right even if we wanted to, because we do not know who you are.</li>
+</ul>
+<p>If you want to make a request anyway, raise a concern, or ask us a question about
+any of this, email patfoley4291@gmail.com and we will respond within 30 days. If you are
+in the EEA or the UK you also have the right to complain to your national data
+protection authority; if you are in the UK that is the Information Commissioner's
+Office.</p>
+<p>If this ever changes — if a version of Juncture has accounts or a server — we will
+build a real rights process before shipping it, and say so here.</p>
+<hr />
+<h2 id="changes-to-this-policy">Changes to this policy</h2>
+<p>If we change what Juncture reads, or where any of it goes, we will update this page
+and change the "Last updated" date at the top before the new version is released.</p>
+<p>For a change that materially affects how your information is handled — in
+particular adding any transmission of health, calendar or location data — we will
+not rely on you re-reading this page. We will tell you in the app and ask again
+for the permission involved.</p>
+<p>We will keep the previous version available at [ARCHIVE URL, OR DELETE THIS LINE]
+so you can see what changed.</p>
+<hr />
+<h2 id="contact">Contact</h2>
+<p>the developer, United States</p>
+<p>Email: patfoley4291@gmail.com</p>
+<p>[IF YOU APPOINT AN EU OR UK REPRESENTATIVE UNDER GDPR ART. 27, NAME THEM HERE —
+SEE "QUESTIONS FOR YOUR LAWYER"]</p>
+<!-- ============================================================
+     DELETE EVERYTHING BELOW THIS LINE BEFORE PUBLISHING.
+     It is for you and your lawyer, not for your users.
+     ============================================================ -->
+
+<hr />
+<h1 id="questions-for-your-lawyer">Questions for your lawyer</h1>
+<p>These are the specific things that could not be determined from the code and that
+need professional judgement. They are listed roughly in order of how much they
+could cost you to get wrong.</p>
+<ol>
+<li>
+<p><strong>Where are you established, and does that make the GDPR or UK GDPR apply?</strong>
+   Everything in the "Legal basis" section is written conditionally because this
+   is unresolved. If you are established in the EEA or UK, the GDPR applies to you
+   regardless of where your users are. If you are established elsewhere — the US,
+   say — it applies only if you are offering the app to people in the EU/UK, and
+   the App Store makes you available in every territory you do not deliberately
+   exclude. Ask specifically whether you should restrict App Store availability at
+   launch to narrow this, and whether Article 27 obliges you to appoint an EU or UK
+   representative. That last one has a real cost and a real penalty, so get a
+   direct answer rather than an assumption.</p>
+</li>
+<li>
+<p><strong>Are you a "controller" of data your app never receives?</strong> This is the
+   question the whole policy turns on. Juncture processes special-category health data
+   on the user's device and transmits none of it. Regulators have not settled
+   whether a developer in that position is a controller, a processor, or outside
+   the framework for that data. The answer determines whether you owe records of
+   processing under Article 30, a DPIA under Article 35 (plausibly triggered by
+   large-scale processing of health data, if it is your processing at all), and
+   whether the rights section above is adequate or merely polite. Do not let this
+   be answered by analogy to a cloud app; the on-device fact pattern is the whole
+   point.</p>
+</li>
+<li>
+<p><strong>Does Washington's My Health My Data Act reach you?</strong> It defines consumer
+   health data broadly, requires separate consent for collection and a distinct
+   consent for sharing, requires its own standalone Consumer Health Data Privacy
+   Policy — a separate document from this one, not a section of it — and it
+   carries a <strong>private right of action</strong>, which is why it is the US statute most
+   likely to actually hurt. The threshold question is whether reading data on the
+   user's device constitutes "collecting" it under the Act. Ask whether you need
+   the separate MHMDA policy at all, and if the answer is anything other than a
+   clear no, write it. Nevada's SB 370 is similar and worth asking about in the
+   same breath.</p>
+</li>
+<li>
+<p><strong>What is your age floor, and how do you justify it?</strong> COPPA attaches to
+   children under 13 in the US, but so do the App Store's age-rating rules, the UK
+   Age Appropriate Design Code, and the GDPR's Article 8 digital-consent age —
+   which varies by member state between 13 and 16. You have no accounts and
+   collect nothing, which helps a great deal, but you are handling health data and
+   giving training advice, which cuts the other way. Decide on 13, 16 or 18, make
+   the App Store age rating consistent with it, and fill in the placeholder. Ask
+   whether an age gate is needed or whether a stated minimum is sufficient given
+   that you collect nothing.</p>
+</li>
+<li>
+<p><strong>Is "we are not a joint controller with Google" right?</strong> When a user connects
+   Google Calendar, your app causes their calendar data to move to and from Google
+   and writes events into their account. You never see it. But you chose the
+   scopes, you initiate the calls, and you determine the purpose. Confirm whether
+   that makes you a controller or joint controller of that processing, and whether
+   the Google section above needs to say more than it does. Related: you will also
+   need Google's OAuth verification before you can offer this to more than 100
+   users, and their review will ask for a hosted privacy policy that specifically
+   discloses your use of Google user data and your compliance with their Limited
+   Use requirements. Ask your lawyer to check this policy against those
+   requirements before you submit for verification — the language Google wants is
+   specific and this draft does not contain it.</p>
+</li>
+<li>
+<p><strong>Are the HealthKit commitments phrased strongly enough for Apple?</strong> Apple's
+   App Review Guidelines (currently §5.1.3) prohibit using HealthKit data for
+   advertising, marketing or similar services, and prohibit sharing it with third
+   parties without consent. This draft states all of that. Have someone confirm
+   the wording satisfies Apple as written, because a rejection here costs a review
+   cycle, and the usual cause is a policy that is silent rather than one that is
+   wrong.</p>
+</li>
+<li>
+<p><strong>Is a liability or "not medical advice" disclaimer needed, and does it belong
+   here?</strong> Juncture tells people how hard to train based on their heart-rate
+   variability and sleep. That is not a privacy question, which is why it is not in
+   the policy above, but it is the other document you are missing. Ask whether you
+   need terms of use with a medical disclaimer and limitation of liability, and
+   whether any of it needs to be surfaced in the app rather than only on the web.</p>
+</li>
+<li>
+<p><strong>Does your policy need to be reachable from inside the app, and in what
+   form?</strong> Apple requires the URL in App Store Connect. For HealthKit apps,
+   reviewers commonly expect it to be reachable in-app too. The app currently has
+   no link to it anywhere — see the implementation notes. Confirm what is required
+   versus merely advisable before you decide how much UI to build.</p>
+</li>
+</ol>
+<footer><a href="/juncture-data/">Juncture</a> · <a href="/juncture-data/privacy">Privacy</a> · <a href="/juncture-data/support">Support</a></footer>
+</main></body></html>
