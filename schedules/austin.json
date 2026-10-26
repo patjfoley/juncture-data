@@ -7,7 +7,7 @@
     "lon": -97.7431
   },
   "radiusKm": 40.0,
-  "generatedAt": "2026-10-26T15:09:35+00:00",
+  "generatedAt": "2026-10-26T21:00:05+00:00",
   "venues": [
     {
       "id": "austin/practice-yoga-austin",
@@ -61,7 +61,7 @@
           "start": "2026-10-26T10:30:00-05:00",
           "end": "2026-10-26T11:30:00-05:00",
           "instructor": "Afton Carraway",
-          "spotsLeft": 34,
+          "spotsLeft": 32,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125067546",
           "kind": "class"
@@ -72,7 +72,7 @@
           "start": "2026-10-26T12:00:00-05:00",
           "end": "2026-10-26T13:00:00-05:00",
           "instructor": "Iva Drtina-Hall",
-          "spotsLeft": 34,
+          "spotsLeft": 23,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125073837",
           "kind": "class"
@@ -83,7 +83,7 @@
           "start": "2026-10-26T13:15:00-05:00",
           "end": "2026-10-26T14:30:00-05:00",
           "instructor": "Sam Pullen",
-          "spotsLeft": 36,
+          "spotsLeft": 27,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125077846",
           "kind": "class"
@@ -94,7 +94,7 @@
           "start": "2026-10-26T16:30:00-05:00",
           "end": "2026-10-26T17:30:00-05:00",
           "instructor": "Cydney Ervin",
-          "spotsLeft": 37,
+          "spotsLeft": 30,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125086083",
           "kind": "class"
@@ -105,7 +105,7 @@
           "start": "2026-10-26T18:00:00-05:00",
           "end": "2026-10-26T19:00:00-05:00",
           "instructor": "Laura DeBolt",
-          "spotsLeft": 31,
+          "spotsLeft": 28,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125091599",
           "kind": "class"
@@ -116,7 +116,7 @@
           "start": "2026-10-26T19:30:00-05:00",
           "end": "2026-10-26T20:30:00-05:00",
           "instructor": "Taylor Charbonneau",
-          "spotsLeft": 36,
+          "spotsLeft": 35,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125097896",
           "kind": "class"
@@ -138,7 +138,7 @@
           "start": "2026-10-27T09:00:00-05:00",
           "end": "2026-10-27T10:00:00-05:00",
           "instructor": "Ari Stiles",
-          "spotsLeft": 38,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125131226",
           "kind": "class"
@@ -160,7 +160,7 @@
           "start": "2026-10-27T12:00:00-05:00",
           "end": "2026-10-27T13:00:00-05:00",
           "instructor": "Cydney Ervin",
-          "spotsLeft": 37,
+          "spotsLeft": 36,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125138441",
           "kind": "class"
@@ -193,7 +193,7 @@
           "start": "2026-10-27T18:00:00-05:00",
           "end": "2026-10-27T19:15:00-05:00",
           "instructor": "Marnie Castor",
-          "spotsLeft": 33,
+          "spotsLeft": 32,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125154871",
           "kind": "class"
@@ -270,7 +270,7 @@
           "start": "2026-10-28T16:30:00-05:00",
           "end": "2026-10-28T17:30:00-05:00",
           "instructor": "Cydney Ervin",
-          "spotsLeft": 39,
+          "spotsLeft": 38,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125197359",
           "kind": "class"
@@ -281,7 +281,7 @@
           "start": "2026-10-28T18:00:00-05:00",
           "end": "2026-10-28T19:15:00-05:00",
           "instructor": "G'Nell Price",
-          "spotsLeft": 35,
+          "spotsLeft": 34,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125201434",
           "kind": "class"
@@ -369,7 +369,7 @@
           "start": "2026-10-29T18:00:00-05:00",
           "end": "2026-10-29T19:15:00-05:00",
           "instructor": "Iva Drtina-Hall",
-          "spotsLeft": 37,
+          "spotsLeft": 36,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125263469",
           "kind": "class"
@@ -445,7 +445,7 @@
           "name": "Vin Yin",
           "start": "2026-10-30T16:30:00-05:00",
           "end": "2026-10-30T17:30:00-05:00",
-          "instructor": "Cydney Ervin",
+          "instructor": "Gabrielle Blades",
           "spotsLeft": 39,
           "capacity": 40,
           "bookingURL": "https://momence.com/s/135328141",
@@ -545,7 +545,7 @@
           "start": "2026-11-01T09:00:00-06:00",
           "end": "2026-11-01T10:00:00-06:00",
           "instructor": "Afton Carraway",
-          "spotsLeft": 38,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125397145",
           "kind": "class"
