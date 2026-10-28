@@ -7,7 +7,7 @@
     "lon": -97.7431
   },
   "radiusKm": 40.0,
-  "generatedAt": "2026-10-27T20:40:23+00:00",
+  "generatedAt": "2026-10-28T05:34:37+00:00",
   "venues": [
     {
       "id": "austin/practice-yoga-austin",
@@ -23,89 +23,12 @@
       "openGym": [],
       "sessions": [
         {
-          "id": "austin/practice-yoga-austin/125097896",
-          "name": "Vinyasa",
-          "start": "2026-10-26T19:30:00-05:00",
-          "end": "2026-10-26T20:30:00-05:00",
-          "instructor": "Taylor Charbonneau",
-          "spotsLeft": 28,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/125097896",
-          "kind": "class"
-        },
-        {
-          "id": "austin/practice-yoga-austin/125127708",
-          "name": "Vinyasa",
-          "start": "2026-10-27T07:15:00-05:00",
-          "end": "2026-10-27T08:15:00-05:00",
-          "instructor": "Susan Quesal",
-          "spotsLeft": 35,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/125127708",
-          "kind": "class"
-        },
-        {
-          "id": "austin/practice-yoga-austin/125131226",
-          "name": "Slow Vinyasa",
-          "start": "2026-10-27T09:00:00-05:00",
-          "end": "2026-10-27T10:00:00-05:00",
-          "instructor": "Ari Stiles",
-          "spotsLeft": 30,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/125131226",
-          "kind": "class"
-        },
-        {
-          "id": "austin/practice-yoga-austin/125134961",
-          "name": "Slow Vinyasa + Meditate",
-          "start": "2026-10-27T10:30:00-05:00",
-          "end": "2026-10-27T11:30:00-05:00",
-          "instructor": "Siara Morrow",
-          "spotsLeft": 33,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/125134961",
-          "kind": "class"
-        },
-        {
-          "id": "austin/practice-yoga-austin/125138441",
-          "name": "Align + Flow",
-          "start": "2026-10-27T12:00:00-05:00",
-          "end": "2026-10-27T13:00:00-05:00",
-          "instructor": "Cydney Ervin",
-          "spotsLeft": 33,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/125138441",
-          "kind": "class"
-        },
-        {
-          "id": "austin/practice-yoga-austin/125151128",
-          "name": "Vinyasa",
-          "start": "2026-10-27T16:30:00-05:00",
-          "end": "2026-10-27T17:30:00-05:00",
-          "instructor": "Iva Drtina-Hall",
-          "spotsLeft": 34,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/125151128",
-          "kind": "class"
-        },
-        {
-          "id": "austin/practice-yoga-austin/125154871",
-          "name": "ALIGN",
-          "start": "2026-10-27T18:00:00-05:00",
-          "end": "2026-10-27T19:15:00-05:00",
-          "instructor": "Marnie Castor",
-          "spotsLeft": 24,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/125154871",
-          "kind": "class"
-        },
-        {
           "id": "austin/practice-yoga-austin/125158803",
           "name": "Vin Yin",
           "start": "2026-10-27T19:30:00-05:00",
           "end": "2026-10-27T20:30:00-05:00",
           "instructor": "Jess Zarowitz",
-          "spotsLeft": 34,
+          "spotsLeft": 25,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125158803",
           "kind": "class"
@@ -116,7 +39,7 @@
           "start": "2026-10-28T07:15:00-05:00",
           "end": "2026-10-28T08:15:00-05:00",
           "instructor": "Ari Stiles",
-          "spotsLeft": 35,
+          "spotsLeft": 34,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125175507",
           "kind": "class"
@@ -193,7 +116,7 @@
           "start": "2026-10-28T19:30:00-05:00",
           "end": "2026-10-28T20:30:00-05:00",
           "instructor": "Tyler Griffith",
-          "spotsLeft": 39,
+          "spotsLeft": 38,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125204304",
           "kind": "class"
@@ -237,7 +160,7 @@
           "start": "2026-10-29T12:00:00-05:00",
           "end": "2026-10-29T13:00:00-05:00",
           "instructor": "Iva Drtina-Hall",
-          "spotsLeft": 38,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125239082",
           "kind": "class"
@@ -259,7 +182,7 @@
           "start": "2026-10-29T16:30:00-05:00",
           "end": "2026-10-29T17:30:00-05:00",
           "instructor": "Cydney Ervin",
-          "spotsLeft": 37,
+          "spotsLeft": 36,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125259010",
           "kind": "class"
@@ -270,7 +193,7 @@
           "start": "2026-10-29T18:00:00-05:00",
           "end": "2026-10-29T19:15:00-05:00",
           "instructor": "Iva Drtina-Hall",
-          "spotsLeft": 36,
+          "spotsLeft": 35,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125263469",
           "kind": "class"
@@ -391,7 +314,7 @@
           "start": "2026-10-31T09:00:00-05:00",
           "end": "2026-10-31T10:00:00-05:00",
           "instructor": "Rey Cardenas",
-          "spotsLeft": 39,
+          "spotsLeft": 38,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125369920",
           "kind": "class"
@@ -559,6 +482,94 @@
           "spotsLeft": 39,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125497680",
+          "kind": "class"
+        },
+        {
+          "id": "austin/practice-yoga-austin/125505619",
+          "name": "Vinyasa",
+          "start": "2026-11-02T18:00:00-06:00",
+          "end": "2026-11-02T19:00:00-06:00",
+          "instructor": "Laura DeBolt",
+          "spotsLeft": 37,
+          "capacity": 39,
+          "bookingURL": "https://momence.com/s/125505619",
+          "kind": "class"
+        },
+        {
+          "id": "austin/practice-yoga-austin/125508898",
+          "name": "Vinyasa",
+          "start": "2026-11-02T19:30:00-06:00",
+          "end": "2026-11-02T20:30:00-06:00",
+          "instructor": "Taylor Charbonneau",
+          "spotsLeft": 38,
+          "capacity": 39,
+          "bookingURL": "https://momence.com/s/125508898",
+          "kind": "class"
+        },
+        {
+          "id": "austin/practice-yoga-austin/125528368",
+          "name": "Vinyasa",
+          "start": "2026-11-03T07:15:00-06:00",
+          "end": "2026-11-03T08:15:00-06:00",
+          "instructor": "Susan Quesal",
+          "spotsLeft": 39,
+          "capacity": 39,
+          "bookingURL": "https://momence.com/s/125528368",
+          "kind": "class"
+        },
+        {
+          "id": "austin/practice-yoga-austin/125532483",
+          "name": "Slow Vinyasa",
+          "start": "2026-11-03T09:00:00-06:00",
+          "end": "2026-11-03T10:00:00-06:00",
+          "instructor": "Ari Stiles",
+          "spotsLeft": 39,
+          "capacity": 39,
+          "bookingURL": "https://momence.com/s/125532483",
+          "kind": "class"
+        },
+        {
+          "id": "austin/practice-yoga-austin/125535875",
+          "name": "Slow Vinyasa + Meditate",
+          "start": "2026-11-03T10:30:00-06:00",
+          "end": "2026-11-03T11:30:00-06:00",
+          "instructor": "Siara Morrow",
+          "spotsLeft": 39,
+          "capacity": 39,
+          "bookingURL": "https://momence.com/s/125535875",
+          "kind": "class"
+        },
+        {
+          "id": "austin/practice-yoga-austin/125539984",
+          "name": "Align + Flow",
+          "start": "2026-11-03T12:00:00-06:00",
+          "end": "2026-11-03T13:00:00-06:00",
+          "instructor": "Cydney Ervin",
+          "spotsLeft": 38,
+          "capacity": 39,
+          "bookingURL": "https://momence.com/s/125539984",
+          "kind": "class"
+        },
+        {
+          "id": "austin/practice-yoga-austin/125543932",
+          "name": "ALIGN",
+          "start": "2026-11-03T13:15:00-06:00",
+          "end": "2026-11-03T14:15:00-06:00",
+          "instructor": "Rey Cardenas",
+          "spotsLeft": 39,
+          "capacity": 39,
+          "bookingURL": "https://momence.com/s/125543932",
+          "kind": "class"
+        },
+        {
+          "id": "austin/practice-yoga-austin/125551311",
+          "name": "Vinyasa",
+          "start": "2026-11-03T16:30:00-06:00",
+          "end": "2026-11-03T17:30:00-06:00",
+          "instructor": "Iva Drtina-Hall",
+          "spotsLeft": 38,
+          "capacity": 39,
+          "bookingURL": "https://momence.com/s/125551311",
           "kind": "class"
         }
       ]
