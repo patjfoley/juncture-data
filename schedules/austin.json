@@ -7,7 +7,7 @@
     "lon": -97.7431
   },
   "radiusKm": 40.0,
-  "generatedAt": "2026-10-29T15:12:15+00:00",
+  "generatedAt": "2026-10-29T21:06:03+00:00",
   "venues": [
     {
       "id": "austin/practice-yoga-austin",
@@ -61,7 +61,7 @@
           "start": "2026-10-29T10:30:00-05:00",
           "end": "2026-10-29T11:30:00-05:00",
           "instructor": "Siara Morrow",
-          "spotsLeft": 35,
+          "spotsLeft": 34,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125235051",
           "kind": "class"
@@ -72,7 +72,7 @@
           "start": "2026-10-29T12:00:00-05:00",
           "end": "2026-10-29T13:00:00-05:00",
           "instructor": "Iva Drtina-Hall",
-          "spotsLeft": 35,
+          "spotsLeft": 30,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125239082",
           "kind": "class"
@@ -105,7 +105,7 @@
           "start": "2026-10-29T18:00:00-05:00",
           "end": "2026-10-29T19:15:00-05:00",
           "instructor": "Iva Drtina-Hall",
-          "spotsLeft": 34,
+          "spotsLeft": 33,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125263469",
           "kind": "class"
@@ -127,7 +127,7 @@
           "start": "2026-10-30T07:15:00-05:00",
           "end": "2026-10-30T08:15:00-05:00",
           "instructor": "Tyler Griffith",
-          "spotsLeft": 39,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125284417",
           "kind": "class"
@@ -149,7 +149,7 @@
           "start": "2026-10-30T10:30:00-05:00",
           "end": "2026-10-30T11:30:00-05:00",
           "instructor": "Afton Carraway",
-          "spotsLeft": 38,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125290446",
           "kind": "class"
@@ -237,7 +237,7 @@
           "start": "2026-10-31T10:30:00-05:00",
           "end": "2026-10-31T11:30:00-05:00",
           "instructor": "Marnie Castor",
-          "spotsLeft": 49,
+          "spotsLeft": 47,
           "capacity": 52,
           "bookingURL": "https://momence.com/s/125372645",
           "kind": "class"
@@ -248,7 +248,7 @@
           "start": "2026-10-31T12:00:00-05:00",
           "end": "2026-10-31T13:00:00-05:00",
           "instructor": "Tyler Price",
-          "spotsLeft": 34,
+          "spotsLeft": 33,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125375813",
           "kind": "class"
@@ -303,7 +303,7 @@
           "start": "2026-11-01T12:00:00-06:00",
           "end": "2026-11-01T13:00:00-06:00",
           "instructor": "Sam Pullen",
-          "spotsLeft": 38,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125404313",
           "kind": "class"
@@ -479,7 +479,7 @@
           "start": "2026-11-03T16:30:00-06:00",
           "end": "2026-11-03T17:30:00-06:00",
           "instructor": "Iva Drtina-Hall",
-          "spotsLeft": 38,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125551311",
           "kind": "class"
@@ -533,8 +533,8 @@
           "name": "Vinyasa",
           "start": "2026-11-04T10:30:00-06:00",
           "end": "2026-11-04T11:30:00-06:00",
-          "instructor": "Cydney Ervin",
-          "spotsLeft": 38,
+          "instructor": "Gil Perez",
+          "spotsLeft": 39,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125586986",
           "kind": "class"
@@ -615,7 +615,7 @@
           "start": "2026-10-31T08:15:00-05:00",
           "end": "2026-10-31T09:00:00-05:00",
           "instructor": "Laura Griffith",
-          "spotsLeft": 6,
+          "spotsLeft": 3,
           "capacity": 10,
           "bookingURL": "https://momence.com/s/139018930",
           "kind": "class"
@@ -670,7 +670,7 @@
           "start": "2026-11-04T07:00:00-06:00",
           "end": "2026-11-04T07:45:00-06:00",
           "instructor": "Celia Tise",
-          "spotsLeft": 8,
+          "spotsLeft": 6,
           "capacity": 10,
           "bookingURL": "https://momence.com/s/138446525",
           "kind": "class"
