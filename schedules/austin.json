@@ -7,7 +7,7 @@
     "lon": -97.7431
   },
   "radiusKm": 40.0,
-  "generatedAt": "2026-10-30T15:01:39+00:00",
+  "generatedAt": "2026-10-30T20:44:57+00:00",
   "venues": [
     {
       "id": "austin/practice-yoga-austin",
@@ -50,7 +50,7 @@
           "start": "2026-10-30T09:00:00-05:00",
           "end": "2026-10-30T10:00:00-05:00",
           "instructor": "Afton Carraway",
-          "spotsLeft": 29,
+          "spotsLeft": 28,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125287858",
           "kind": "class"
@@ -61,7 +61,7 @@
           "start": "2026-10-30T10:30:00-05:00",
           "end": "2026-10-30T11:30:00-05:00",
           "instructor": "Afton Carraway",
-          "spotsLeft": 37,
+          "spotsLeft": 30,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125290446",
           "kind": "class"
@@ -72,7 +72,7 @@
           "start": "2026-10-30T12:00:00-05:00",
           "end": "2026-10-30T13:00:00-05:00",
           "instructor": "Sarah Speck",
-          "spotsLeft": 38,
+          "spotsLeft": 35,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125293096",
           "kind": "class"
@@ -83,7 +83,7 @@
           "start": "2026-10-30T13:15:00-05:00",
           "end": "2026-10-30T14:15:00-05:00",
           "instructor": "Hannah Charles",
-          "spotsLeft": 36,
+          "spotsLeft": 35,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125296221",
           "kind": "class"
@@ -94,7 +94,7 @@
           "start": "2026-10-30T16:30:00-05:00",
           "end": "2026-10-30T17:30:00-05:00",
           "instructor": "Gabrielle Blades",
-          "spotsLeft": 39,
+          "spotsLeft": 38,
           "capacity": 40,
           "bookingURL": "https://momence.com/s/135328141",
           "kind": "class"
@@ -105,7 +105,7 @@
           "start": "2026-10-30T18:00:00-05:00",
           "end": "2026-10-30T19:00:00-05:00",
           "instructor": "Audrey Moore",
-          "spotsLeft": 38,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125311184",
           "kind": "class"
@@ -116,7 +116,7 @@
           "start": "2026-10-30T19:30:00-05:00",
           "end": "2026-10-30T20:30:00-05:00",
           "instructor": "Audrey Moore",
-          "spotsLeft": 38,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125357362",
           "kind": "class"
@@ -149,7 +149,7 @@
           "start": "2026-10-31T10:30:00-05:00",
           "end": "2026-10-31T11:30:00-05:00",
           "instructor": "Marnie Castor",
-          "spotsLeft": 45,
+          "spotsLeft": 43,
           "capacity": 52,
           "bookingURL": "https://momence.com/s/125372645",
           "kind": "class"
@@ -163,17 +163,6 @@
           "spotsLeft": 33,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125375813",
-          "kind": "class"
-        },
-        {
-          "id": "austin/practice-yoga-austin/125379552",
-          "name": "Align + Flow",
-          "start": "2026-10-31T13:15:00-05:00",
-          "end": "2026-10-31T14:15:00-05:00",
-          "instructor": "Hannah Finnegan",
-          "spotsLeft": 37,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/125379552",
           "kind": "class"
         },
         {
@@ -193,7 +182,7 @@
           "start": "2026-11-01T09:00:00-06:00",
           "end": "2026-11-01T10:00:00-06:00",
           "instructor": "Afton Carraway",
-          "spotsLeft": 37,
+          "spotsLeft": 35,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125397145",
           "kind": "class"
@@ -215,7 +204,7 @@
           "start": "2026-11-01T12:00:00-06:00",
           "end": "2026-11-01T13:00:00-06:00",
           "instructor": "Sam Pullen",
-          "spotsLeft": 34,
+          "spotsLeft": 33,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125404313",
           "kind": "class"
@@ -376,10 +365,10 @@
         },
         {
           "id": "austin/practice-yoga-austin/125543932",
-          "name": "ALIGN",
+          "name": "Vinyasa",
           "start": "2026-11-03T13:15:00-06:00",
           "end": "2026-11-03T14:15:00-06:00",
-          "instructor": "Rey Cardenas",
+          "instructor": "Kayla Gattoni",
           "spotsLeft": 39,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125543932",
@@ -555,7 +544,7 @@
           "name": "Vinyasa",
           "start": "2026-11-05T13:15:00-06:00",
           "end": "2026-11-05T14:15:00-06:00",
-          "instructor": "Kayla Chartier",
+          "instructor": "Sarah Speck",
           "spotsLeft": 38,
           "capacity": 38,
           "bookingURL": "https://momence.com/s/145774117",
@@ -648,7 +637,7 @@
           "start": "2026-11-02T07:00:00-06:00",
           "end": "2026-11-02T07:45:00-06:00",
           "instructor": "Celia Tise",
-          "spotsLeft": 3,
+          "spotsLeft": 2,
           "capacity": 10,
           "bookingURL": "https://momence.com/s/138714241",
           "kind": "class"
