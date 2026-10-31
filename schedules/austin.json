@@ -7,7 +7,7 @@
     "lon": -97.7431
   },
   "radiusKm": 40.0,
-  "generatedAt": "2026-10-31T05:33:50+00:00",
+  "generatedAt": "2026-10-31T14:30:05+00:00",
   "venues": [
     {
       "id": "austin/practice-yoga-austin",
@@ -39,7 +39,7 @@
           "start": "2026-10-31T07:45:00-05:00",
           "end": "2026-10-31T08:45:00-05:00",
           "instructor": "Jenni Bacich",
-          "spotsLeft": 38,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125367565",
           "kind": "class"
@@ -50,7 +50,7 @@
           "start": "2026-10-31T09:00:00-05:00",
           "end": "2026-10-31T10:00:00-05:00",
           "instructor": "Rey Cardenas",
-          "spotsLeft": 34,
+          "spotsLeft": 20,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125369920",
           "kind": "class"
@@ -61,7 +61,7 @@
           "start": "2026-10-31T10:30:00-05:00",
           "end": "2026-10-31T11:30:00-05:00",
           "instructor": "Marnie Castor",
-          "spotsLeft": 41,
+          "spotsLeft": 34,
           "capacity": 52,
           "bookingURL": "https://momence.com/s/125372645",
           "kind": "class"
@@ -72,7 +72,7 @@
           "start": "2026-10-31T12:00:00-05:00",
           "end": "2026-10-31T13:00:00-05:00",
           "instructor": "Tyler Price",
-          "spotsLeft": 33,
+          "spotsLeft": 31,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125375813",
           "kind": "class"
@@ -105,7 +105,7 @@
           "start": "2026-11-01T10:30:00-06:00",
           "end": "2026-11-01T11:30:00-06:00",
           "instructor": "Laura DeBolt",
-          "spotsLeft": 42,
+          "spotsLeft": 40,
           "capacity": 45,
           "bookingURL": "https://momence.com/s/125401043",
           "kind": "class"
@@ -325,7 +325,7 @@
           "start": "2026-11-04T07:15:00-06:00",
           "end": "2026-11-04T08:15:00-06:00",
           "instructor": "Ari Stiles",
-          "spotsLeft": 39,
+          "spotsLeft": 38,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125578929",
           "kind": "class"
@@ -380,7 +380,7 @@
           "start": "2026-11-04T16:30:00-06:00",
           "end": "2026-11-04T17:30:00-06:00",
           "instructor": "Geannie Laura",
-          "spotsLeft": 39,
+          "spotsLeft": 38,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125601511",
           "kind": "class"
@@ -391,7 +391,7 @@
           "start": "2026-11-04T18:00:00-06:00",
           "end": "2026-11-04T19:15:00-06:00",
           "instructor": "G'Nell Price",
-          "spotsLeft": 37,
+          "spotsLeft": 38,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125606797",
           "kind": "class"
