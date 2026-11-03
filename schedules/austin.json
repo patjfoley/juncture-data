@@ -7,7 +7,7 @@
     "lon": -97.7431
   },
   "radiusKm": 40.0,
-  "generatedAt": "2026-11-02T18:17:10+00:00",
+  "generatedAt": "2026-11-03T02:16:16+00:00",
   "venues": [
     {
       "id": "austin/practice-yoga-austin",
@@ -23,100 +23,12 @@
       "openGym": [],
       "sessions": [
         {
-          "id": "austin/practice-yoga-austin/125415101",
-          "name": "Vinyasa",
-          "start": "2026-11-01T18:00:00-06:00",
-          "end": "2026-11-01T19:00:00-06:00",
-          "instructor": "Gil Perez",
-          "spotsLeft": 32,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/125415101",
-          "kind": "class"
-        },
-        {
-          "id": "austin/practice-yoga-austin/125439177",
-          "name": "Yin",
-          "start": "2026-11-01T19:30:00-06:00",
-          "end": "2026-11-01T20:30:00-06:00",
-          "instructor": "Jess Zarowitz",
-          "spotsLeft": 31,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/125439177",
-          "kind": "class"
-        },
-        {
-          "id": "austin/practice-yoga-austin/125472588",
-          "name": "Vinyasa",
-          "start": "2026-11-02T07:15:00-06:00",
-          "end": "2026-11-02T08:15:00-06:00",
-          "instructor": "Tyler Griffith",
-          "spotsLeft": 32,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/125472588",
-          "kind": "class"
-        },
-        {
-          "id": "austin/practice-yoga-austin/125475859",
-          "name": "Vinyasa",
-          "start": "2026-11-02T09:00:00-06:00",
-          "end": "2026-11-02T10:00:00-06:00",
-          "instructor": "Afton Carraway",
-          "spotsLeft": 33,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/125475859",
-          "kind": "class"
-        },
-        {
-          "id": "austin/practice-yoga-austin/125479354",
-          "name": "ALIGN",
-          "start": "2026-11-02T10:30:00-06:00",
-          "end": "2026-11-02T11:30:00-06:00",
-          "instructor": "Afton Carraway",
-          "spotsLeft": 30,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/125479354",
-          "kind": "class"
-        },
-        {
-          "id": "austin/practice-yoga-austin/125482969",
-          "name": "Vinyasa II",
-          "start": "2026-11-02T12:00:00-06:00",
-          "end": "2026-11-02T13:00:00-06:00",
-          "instructor": "Iva Drtina-Hall",
-          "spotsLeft": 21,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/125482969",
-          "kind": "class"
-        },
-        {
-          "id": "austin/practice-yoga-austin/125486015",
-          "name": "Supine Somatics",
-          "start": "2026-11-02T13:15:00-06:00",
-          "end": "2026-11-02T14:30:00-06:00",
-          "instructor": "Sam Pullen",
-          "spotsLeft": 37,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/125486015",
-          "kind": "class"
-        },
-        {
-          "id": "austin/practice-yoga-austin/125497680",
-          "name": "Vinyasa",
-          "start": "2026-11-02T16:30:00-06:00",
-          "end": "2026-11-02T17:30:00-06:00",
-          "instructor": "Marnie Castor",
-          "spotsLeft": 29,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/125497680",
-          "kind": "class"
-        },
-        {
           "id": "austin/practice-yoga-austin/125505619",
           "name": "Vinyasa",
           "start": "2026-11-02T18:00:00-06:00",
           "end": "2026-11-02T19:00:00-06:00",
           "instructor": "Laura DeBolt",
-          "spotsLeft": 35,
+          "spotsLeft": 28,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125505619",
           "kind": "class"
@@ -126,8 +38,8 @@
           "name": "Vinyasa",
           "start": "2026-11-02T19:30:00-06:00",
           "end": "2026-11-02T20:30:00-06:00",
-          "instructor": "Taylor Charbonneau",
-          "spotsLeft": 38,
+          "instructor": "Gil Perez",
+          "spotsLeft": 32,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125508898",
           "kind": "class"
@@ -138,7 +50,7 @@
           "start": "2026-11-03T07:15:00-06:00",
           "end": "2026-11-03T08:15:00-06:00",
           "instructor": "Susan Quesal",
-          "spotsLeft": 37,
+          "spotsLeft": 36,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125528368",
           "kind": "class"
@@ -171,7 +83,7 @@
           "start": "2026-11-03T12:00:00-06:00",
           "end": "2026-11-03T13:00:00-06:00",
           "instructor": "Cydney Ervin",
-          "spotsLeft": 37,
+          "spotsLeft": 36,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125539984",
           "kind": "class"
@@ -182,7 +94,7 @@
           "start": "2026-11-03T13:15:00-06:00",
           "end": "2026-11-03T14:15:00-06:00",
           "instructor": "Kayla Gattoni",
-          "spotsLeft": 38,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125543932",
           "kind": "class"
@@ -193,7 +105,7 @@
           "start": "2026-11-03T16:30:00-06:00",
           "end": "2026-11-03T17:30:00-06:00",
           "instructor": "Iva Drtina-Hall",
-          "spotsLeft": 36,
+          "spotsLeft": 35,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125551311",
           "kind": "class"
@@ -204,7 +116,7 @@
           "start": "2026-11-03T18:00:00-06:00",
           "end": "2026-11-03T19:15:00-06:00",
           "instructor": "Marnie Castor",
-          "spotsLeft": 37,
+          "spotsLeft": 36,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125555852",
           "kind": "class"
@@ -270,7 +182,7 @@
           "start": "2026-11-04T13:15:00-06:00",
           "end": "2026-11-04T14:15:00-06:00",
           "instructor": "Jenn Wooten",
-          "spotsLeft": 36,
+          "spotsLeft": 35,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125594644",
           "kind": "class"
@@ -292,7 +204,7 @@
           "start": "2026-11-04T18:00:00-06:00",
           "end": "2026-11-04T19:15:00-06:00",
           "instructor": "G'Nell Price",
-          "spotsLeft": 33,
+          "spotsLeft": 31,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125606797",
           "kind": "class"
@@ -314,7 +226,7 @@
           "start": "2026-11-05T07:15:00-06:00",
           "end": "2026-11-05T08:15:00-06:00",
           "instructor": "Susan Quesal",
-          "spotsLeft": 39,
+          "spotsLeft": 38,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125636981",
           "kind": "class"
@@ -325,7 +237,7 @@
           "start": "2026-11-05T09:00:00-06:00",
           "end": "2026-11-05T10:15:00-06:00",
           "instructor": "Afton Carraway",
-          "spotsLeft": 36,
+          "spotsLeft": 34,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125640334",
           "kind": "class"
@@ -347,7 +259,7 @@
           "start": "2026-11-05T12:00:00-06:00",
           "end": "2026-11-05T13:00:00-06:00",
           "instructor": "Iva Drtina-Hall",
-          "spotsLeft": 39,
+          "spotsLeft": 38,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125647726",
           "kind": "class"
@@ -380,7 +292,7 @@
           "start": "2026-11-05T18:00:00-06:00",
           "end": "2026-11-05T19:15:00-06:00",
           "instructor": "Iva Drtina-Hall",
-          "spotsLeft": 38,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125663687",
           "kind": "class"
@@ -413,7 +325,7 @@
           "start": "2026-11-06T09:00:00-06:00",
           "end": "2026-11-06T10:00:00-06:00",
           "instructor": "Afton Carraway",
-          "spotsLeft": 37,
+          "spotsLeft": 36,
           "capacity": 38,
           "bookingURL": "https://momence.com/s/146198601",
           "kind": "class"
@@ -424,7 +336,7 @@
           "start": "2026-11-06T10:30:00-06:00",
           "end": "2026-11-06T11:30:00-06:00",
           "instructor": "Jenn Wooten",
-          "spotsLeft": 38,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125685890",
           "kind": "class"
@@ -435,7 +347,7 @@
           "start": "2026-11-06T12:00:00-06:00",
           "end": "2026-11-06T13:00:00-06:00",
           "instructor": "Jenn Wooten",
-          "spotsLeft": 36,
+          "spotsLeft": 35,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125688823",
           "kind": "class"
@@ -479,7 +391,7 @@
           "start": "2026-11-06T19:30:00-06:00",
           "end": "2026-11-06T20:30:00-06:00",
           "instructor": "Audrey Moore",
-          "spotsLeft": 38,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125700444",
           "kind": "class"
@@ -512,7 +424,7 @@
           "start": "2026-11-07T10:30:00-06:00",
           "end": "2026-11-07T11:30:00-06:00",
           "instructor": "Marnie Castor",
-          "spotsLeft": 51,
+          "spotsLeft": 50,
           "capacity": 52,
           "bookingURL": "https://momence.com/s/125713486",
           "kind": "class"
@@ -523,7 +435,7 @@
           "start": "2026-11-07T12:00:00-06:00",
           "end": "2026-11-07T13:00:00-06:00",
           "instructor": "Tyler Price",
-          "spotsLeft": 38,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125717268",
           "kind": "class"
@@ -578,7 +490,7 @@
           "start": "2026-11-08T12:00:00-06:00",
           "end": "2026-11-08T13:00:00-06:00",
           "instructor": "Sam Pullen",
-          "spotsLeft": 39,
+          "spotsLeft": 38,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125741205",
           "kind": "class"
@@ -592,6 +504,94 @@
           "spotsLeft": 35,
           "capacity": 37,
           "bookingURL": "https://momence.com/s/127254004",
+          "kind": "class"
+        },
+        {
+          "id": "austin/practice-yoga-austin/125749719",
+          "name": "Vinyasa",
+          "start": "2026-11-08T18:00:00-06:00",
+          "end": "2026-11-08T19:00:00-06:00",
+          "instructor": "Tyler McCoy",
+          "spotsLeft": 39,
+          "capacity": 39,
+          "bookingURL": "https://momence.com/s/125749719",
+          "kind": "class"
+        },
+        {
+          "id": "austin/practice-yoga-austin/125751749",
+          "name": "Yin",
+          "start": "2026-11-08T19:30:00-06:00",
+          "end": "2026-11-08T20:30:00-06:00",
+          "instructor": "Jess Zarowitz",
+          "spotsLeft": 39,
+          "capacity": 39,
+          "bookingURL": "https://momence.com/s/125751749",
+          "kind": "class"
+        },
+        {
+          "id": "austin/practice-yoga-austin/125771553",
+          "name": "Vinyasa",
+          "start": "2026-11-09T07:15:00-06:00",
+          "end": "2026-11-09T08:15:00-06:00",
+          "instructor": "Hannah Finnegan",
+          "spotsLeft": 39,
+          "capacity": 39,
+          "bookingURL": "https://momence.com/s/125771553",
+          "kind": "class"
+        },
+        {
+          "id": "austin/practice-yoga-austin/125774986",
+          "name": "Vinyasa",
+          "start": "2026-11-09T09:00:00-06:00",
+          "end": "2026-11-09T10:00:00-06:00",
+          "instructor": "Afton Carraway",
+          "spotsLeft": 38,
+          "capacity": 39,
+          "bookingURL": "https://momence.com/s/125774986",
+          "kind": "class"
+        },
+        {
+          "id": "austin/practice-yoga-austin/125777814",
+          "name": "ALIGN",
+          "start": "2026-11-09T10:30:00-06:00",
+          "end": "2026-11-09T11:30:00-06:00",
+          "instructor": "Afton Carraway",
+          "spotsLeft": 39,
+          "capacity": 39,
+          "bookingURL": "https://momence.com/s/125777814",
+          "kind": "class"
+        },
+        {
+          "id": "austin/practice-yoga-austin/125782546",
+          "name": "Vinyasa II",
+          "start": "2026-11-09T12:00:00-06:00",
+          "end": "2026-11-09T13:00:00-06:00",
+          "instructor": "Iva Drtina-Hall",
+          "spotsLeft": 38,
+          "capacity": 39,
+          "bookingURL": "https://momence.com/s/125782546",
+          "kind": "class"
+        },
+        {
+          "id": "austin/practice-yoga-austin/125785890",
+          "name": "Supine Somatics",
+          "start": "2026-11-09T13:15:00-06:00",
+          "end": "2026-11-09T14:30:00-06:00",
+          "instructor": "Sam Pullen",
+          "spotsLeft": 38,
+          "capacity": 39,
+          "bookingURL": "https://momence.com/s/125785890",
+          "kind": "class"
+        },
+        {
+          "id": "austin/practice-yoga-austin/125792567",
+          "name": "Vinyasa",
+          "start": "2026-11-09T16:30:00-06:00",
+          "end": "2026-11-09T17:30:00-06:00",
+          "instructor": "Marnie Castor",
+          "spotsLeft": 39,
+          "capacity": 39,
+          "bookingURL": "https://momence.com/s/125792567",
           "kind": "class"
         }
       ]
@@ -609,17 +609,6 @@
       "bookingURL": null,
       "openGym": [],
       "sessions": [
-        {
-          "id": "austin/ro-fitness/138714241",
-          "name": "Sunrise Cardio Rō",
-          "start": "2026-11-02T07:00:00-06:00",
-          "end": "2026-11-02T07:45:00-06:00",
-          "instructor": "Celia Tise",
-          "spotsLeft": 1,
-          "capacity": 12,
-          "bookingURL": "https://momence.com/s/138714241",
-          "kind": "class"
-        },
         {
           "id": "austin/ro-fitness/138446525",
           "name": "Sunrise Cardio Rō",
@@ -648,7 +637,7 @@
           "start": "2026-11-06T07:00:00-06:00",
           "end": "2026-11-06T07:45:00-06:00",
           "instructor": "Margaux Bomsta",
-          "spotsLeft": 8,
+          "spotsLeft": 7,
           "capacity": 10,
           "bookingURL": "https://momence.com/s/141535395",
           "kind": "class"
@@ -695,6 +684,17 @@
           "spotsLeft": 2,
           "capacity": 10,
           "bookingURL": "https://momence.com/s/138714187",
+          "kind": "class"
+        },
+        {
+          "id": "austin/ro-fitness/138714243",
+          "name": "Sunrise Cardio Rō",
+          "start": "2026-11-09T07:00:00-06:00",
+          "end": "2026-11-09T07:45:00-06:00",
+          "instructor": "Celia Tise",
+          "spotsLeft": 8,
+          "capacity": 10,
+          "bookingURL": "https://momence.com/s/138714243",
           "kind": "class"
         }
       ]
