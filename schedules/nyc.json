@@ -7,8 +7,397 @@
     "lon": -73.9866
   },
   "radiusKm": 30.0,
-  "generatedAt": "2026-11-04T19:43:03+00:00",
+  "generatedAt": "2026-11-05T00:53:30+00:00",
   "venues": [
+    {
+      "id": "nyc/physique-57-soho",
+      "name": "Physique 57",
+      "platform": "momence",
+      "coordinate": {
+        "lat": 40.72358,
+        "lon": -73.99806
+      },
+      "address": "550 Broadway, New York, NY 10012",
+      "website": null,
+      "bookingURL": null,
+      "openGym": [],
+      "sessions": [
+        {
+          "id": "nyc/physique-57-soho/142657904",
+          "name": "Physique Mat Pilates (formerly Core Pilates)",
+          "start": "2026-11-04T19:15:00-05:00",
+          "end": "2026-11-04T20:15:00-05:00",
+          "instructor": "Grace Crugnale",
+          "spotsLeft": 23,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/142657904",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/145525106",
+          "name": "Physique Barre",
+          "start": "2026-11-05T07:00:00-05:00",
+          "end": "2026-11-05T08:00:00-05:00",
+          "instructor": "Jessie Potter",
+          "spotsLeft": 25,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/145525106",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/145526022",
+          "name": "Physique Barre",
+          "start": "2026-11-05T08:15:00-05:00",
+          "end": "2026-11-05T09:15:00-05:00",
+          "instructor": "Jessie Potter",
+          "spotsLeft": 24,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/145526022",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/143872794",
+          "name": "Physique Mat Pilates (formerly Core Pilates)",
+          "start": "2026-11-05T09:30:00-05:00",
+          "end": "2026-11-05T10:30:00-05:00",
+          "instructor": "Torrey Harada",
+          "spotsLeft": 19,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/143872794",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/143877031",
+          "name": "Physique Barre",
+          "start": "2026-11-05T10:45:00-05:00",
+          "end": "2026-11-05T11:45:00-05:00",
+          "instructor": "Torrey Harada",
+          "spotsLeft": 23,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/143877031",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144729845",
+          "name": "Physique Mat Pilates (formerly Core Pilates)",
+          "start": "2026-11-05T17:30:00-05:00",
+          "end": "2026-11-05T18:30:00-05:00",
+          "instructor": "Jarred Bosch",
+          "spotsLeft": 21,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/144729845",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144732673",
+          "name": "Physique Strength",
+          "start": "2026-11-05T18:30:00-05:00",
+          "end": "2026-11-05T19:30:00-05:00",
+          "instructor": "Jarred Bosch",
+          "spotsLeft": 19,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/144732673",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/142758682",
+          "name": "Physique Mat Pilates (formerly Core Pilates)",
+          "start": "2026-11-06T07:00:00-05:00",
+          "end": "2026-11-06T08:00:00-05:00",
+          "instructor": "Emma Smith",
+          "spotsLeft": 18,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/142758682",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/143952781",
+          "name": "Physique Barre",
+          "start": "2026-11-06T08:15:00-05:00",
+          "end": "2026-11-06T09:15:00-05:00",
+          "instructor": "Emma Smith",
+          "spotsLeft": 23,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/143952781",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/143955802",
+          "name": "Physique Strength",
+          "start": "2026-11-06T09:30:00-05:00",
+          "end": "2026-11-06T10:30:00-05:00",
+          "instructor": "Megan Dillon",
+          "spotsLeft": 17,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/143955802",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/143958543",
+          "name": "Physique Barre",
+          "start": "2026-11-06T10:45:00-05:00",
+          "end": "2026-11-06T11:45:00-05:00",
+          "instructor": "Megan Dillon",
+          "spotsLeft": 23,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/143958543",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/143990521",
+          "name": "Physique Barre",
+          "start": "2026-11-07T09:00:00-05:00",
+          "end": "2026-11-07T10:00:00-05:00",
+          "instructor": "Kerrie Melissaratos",
+          "spotsLeft": 22,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/143990521",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/143993656",
+          "name": "Physique Ignite",
+          "start": "2026-11-07T10:15:00-05:00",
+          "end": "2026-11-07T11:15:00-05:00",
+          "instructor": "Kerrie Melissaratos",
+          "spotsLeft": 20,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/143993656",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/143998458",
+          "name": "Physique Barre",
+          "start": "2026-11-07T12:00:00-05:00",
+          "end": "2026-11-07T13:00:00-05:00",
+          "instructor": "Kerrie Melissaratos",
+          "spotsLeft": 21,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/143998458",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144840444",
+          "name": "Physique Mat Pilates (formerly Core Pilates)",
+          "start": "2026-11-08T09:00:00-05:00",
+          "end": "2026-11-08T10:00:00-05:00",
+          "instructor": "Emma Smith",
+          "spotsLeft": 23,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/144840444",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144021469",
+          "name": "Physique Strength",
+          "start": "2026-11-08T10:00:00-05:00",
+          "end": "2026-11-08T11:00:00-05:00",
+          "instructor": "Emma Smith",
+          "spotsLeft": 20,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/144021469",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144844751",
+          "name": "Physique Barre",
+          "start": "2026-11-08T11:30:00-05:00",
+          "end": "2026-11-08T12:30:00-05:00",
+          "instructor": "Emma Smith",
+          "spotsLeft": 25,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/144844751",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/143681126",
+          "name": "Physique Ignite",
+          "start": "2026-11-09T07:00:00-05:00",
+          "end": "2026-11-09T08:00:00-05:00",
+          "instructor": "Jessie Potter",
+          "spotsLeft": 26,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/143681126",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144070607",
+          "name": "Physique Barre",
+          "start": "2026-11-09T08:15:00-05:00",
+          "end": "2026-11-09T09:15:00-05:00",
+          "instructor": "Jessie Potter",
+          "spotsLeft": 25,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/144070607",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144073795",
+          "name": "Physique Barre",
+          "start": "2026-11-09T09:30:00-05:00",
+          "end": "2026-11-09T10:30:00-05:00",
+          "instructor": "Evita Zacharioglou",
+          "spotsLeft": 25,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/144073795",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144077091",
+          "name": "Physique Barre",
+          "start": "2026-11-09T10:45:00-05:00",
+          "end": "2026-11-09T11:45:00-05:00",
+          "instructor": "Evita Zacharioglou",
+          "spotsLeft": 25,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/144077091",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144509775",
+          "name": "Physique Barre",
+          "start": "2026-11-09T17:30:00-05:00",
+          "end": "2026-11-09T18:30:00-05:00",
+          "instructor": "Grace Crugnale",
+          "spotsLeft": 26,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/144509775",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144103797",
+          "name": "Physique Barre",
+          "start": "2026-11-09T18:30:00-05:00",
+          "end": "2026-11-09T19:30:00-05:00",
+          "instructor": "Grace Crugnale",
+          "spotsLeft": 24,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/144103797",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144946101",
+          "name": "Physique Barre",
+          "start": "2026-11-10T07:30:00-05:00",
+          "end": "2026-11-10T08:30:00-05:00",
+          "instructor": "Mark Willis",
+          "spotsLeft": 26,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/144946101",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144948079",
+          "name": "Physique Barre",
+          "start": "2026-11-10T08:30:00-05:00",
+          "end": "2026-11-10T09:30:00-05:00",
+          "instructor": "Mark Willis",
+          "spotsLeft": 24,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/144948079",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144144865",
+          "name": "Physique Barre & Band",
+          "start": "2026-11-10T09:30:00-05:00",
+          "end": "2026-11-10T10:30:00-05:00",
+          "instructor": "Megan Dillon",
+          "spotsLeft": 27,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/144144865",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144149476",
+          "name": "Physique Barre",
+          "start": "2026-11-10T10:45:00-05:00",
+          "end": "2026-11-10T11:45:00-05:00",
+          "instructor": "Megan Dillon",
+          "spotsLeft": 27,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/144149476",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144169359",
+          "name": "Physique Strength",
+          "start": "2026-11-10T17:15:00-05:00",
+          "end": "2026-11-10T18:15:00-05:00",
+          "instructor": "Emma Smith",
+          "spotsLeft": 22,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/144169359",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144172517",
+          "name": "Physique Mat Pilates (formerly Core Pilates)",
+          "start": "2026-11-10T18:15:00-05:00",
+          "end": "2026-11-10T19:15:00-05:00",
+          "instructor": "Emma Smith",
+          "spotsLeft": 22,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/144172517",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144219603",
+          "name": "Physique Strength",
+          "start": "2026-11-11T08:15:00-05:00",
+          "end": "2026-11-11T09:15:00-05:00",
+          "instructor": "Megan Dillon",
+          "spotsLeft": 20,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/144219603",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144222885",
+          "name": "Physique Barre",
+          "start": "2026-11-11T09:30:00-05:00",
+          "end": "2026-11-11T10:30:00-05:00",
+          "instructor": "Megan Dillon",
+          "spotsLeft": 27,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/144222885",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144226255",
+          "name": "Physique Barre",
+          "start": "2026-11-11T10:45:00-05:00",
+          "end": "2026-11-11T11:45:00-05:00",
+          "instructor": "Megan Dillon",
+          "spotsLeft": 27,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/144226255",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144261102",
+          "name": "Physique Barre",
+          "start": "2026-11-11T17:15:00-05:00",
+          "end": "2026-11-11T18:15:00-05:00",
+          "instructor": "Grace Crugnale",
+          "spotsLeft": 26,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/144261102",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/physique-57-soho/144264224",
+          "name": "Physique Barre",
+          "start": "2026-11-11T18:15:00-05:00",
+          "end": "2026-11-11T19:15:00-05:00",
+          "instructor": "Grace Crugnale",
+          "spotsLeft": 25,
+          "capacity": 27,
+          "bookingURL": "https://momence.com/s/144264224",
+          "kind": "class"
+        }
+      ]
+    },
     {
       "id": "nyc/core-burn-pilates-west-8th",
       "name": "Core Burn Pilates",
@@ -23,89 +412,12 @@
       "openGym": [],
       "sessions": [
         {
-          "id": "nyc/core-burn-pilates-west-8th/125574830",
-          "name": "Core Burn Advanced",
-          "start": "2026-11-04T06:30:00-05:00",
-          "end": "2026-11-04T07:20:00-05:00",
-          "instructor": "Colleen O'Connor",
-          "spotsLeft": 2,
-          "capacity": 14,
-          "bookingURL": "https://momence.com/s/125574830",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/core-burn-pilates-west-8th/125577081",
-          "name": "Core Burn Intermediate",
-          "start": "2026-11-04T07:30:00-05:00",
-          "end": "2026-11-04T08:20:00-05:00",
-          "instructor": "Colleen O'Connor",
-          "spotsLeft": 0,
-          "capacity": 14,
-          "bookingURL": "https://momence.com/s/125577081",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/core-burn-pilates-west-8th/125579543",
-          "name": "Core Burn Tone & Sculpt",
-          "start": "2026-11-04T08:30:00-05:00",
-          "end": "2026-11-04T09:20:00-05:00",
-          "instructor": "Lauren Feldman",
-          "spotsLeft": 1,
-          "capacity": 14,
-          "bookingURL": "https://momence.com/s/125579543",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/core-burn-pilates-west-8th/125585167",
-          "name": "Core Burn Combo",
-          "start": "2026-11-04T10:30:00-05:00",
-          "end": "2026-11-04T11:20:00-05:00",
-          "instructor": "Lauren Feldman",
-          "spotsLeft": 10,
-          "capacity": 14,
-          "bookingURL": "https://momence.com/s/125585167",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/core-burn-pilates-west-8th/130291027",
-          "name": "Core Burn Tone & Sculpt",
-          "start": "2026-11-04T16:30:00-05:00",
-          "end": "2026-11-04T17:20:00-05:00",
-          "instructor": "Anne Maung",
-          "spotsLeft": 10,
-          "capacity": 14,
-          "bookingURL": "https://momence.com/s/130291027",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/core-burn-pilates-west-8th/125601609",
-          "name": "Core Burn Tone & Sculpt",
-          "start": "2026-11-04T17:30:00-05:00",
-          "end": "2026-11-04T18:20:00-05:00",
-          "instructor": "Anne Maung",
-          "spotsLeft": 10,
-          "capacity": 14,
-          "bookingURL": "https://momence.com/s/125601609",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/core-burn-pilates-west-8th/125604888",
-          "name": "Core Burn Intermediate",
-          "start": "2026-11-04T18:30:00-05:00",
-          "end": "2026-11-04T19:20:00-05:00",
-          "instructor": "Anne Maung",
-          "spotsLeft": 11,
-          "capacity": 14,
-          "bookingURL": "https://momence.com/s/125604888",
-          "kind": "class"
-        },
-        {
           "id": "nyc/core-burn-pilates-west-8th/131584493",
           "name": "Core Burn Tone & Sculpt",
           "start": "2026-11-04T19:30:00-05:00",
           "end": "2026-11-04T20:20:00-05:00",
           "instructor": "Anne Maung",
-          "spotsLeft": 12,
+          "spotsLeft": 10,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/131584493",
           "kind": "class"
@@ -116,7 +428,7 @@
           "start": "2026-11-05T06:30:00-05:00",
           "end": "2026-11-05T07:20:00-05:00",
           "instructor": "Colleen O'Connor",
-          "spotsLeft": 10,
+          "spotsLeft": 11,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/125632916",
           "kind": "class"
@@ -127,7 +439,7 @@
           "start": "2026-11-05T07:30:00-05:00",
           "end": "2026-11-05T08:20:00-05:00",
           "instructor": "Colleen O'Connor",
-          "spotsLeft": 1,
+          "spotsLeft": 0,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/125635344",
           "kind": "class"
@@ -138,7 +450,7 @@
           "start": "2026-11-05T08:30:00-05:00",
           "end": "2026-11-05T09:20:00-05:00",
           "instructor": "Anne Maung",
-          "spotsLeft": 9,
+          "spotsLeft": 8,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/125637421",
           "kind": "class"
@@ -149,7 +461,7 @@
           "start": "2026-11-05T09:30:00-05:00",
           "end": "2026-11-05T10:20:00-05:00",
           "instructor": "Anne Maung",
-          "spotsLeft": 12,
+          "spotsLeft": 13,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/125639539",
           "kind": "class"
@@ -163,28 +475,6 @@
           "spotsLeft": 13,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/143518713",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/core-burn-pilates-west-8th/143518746",
-          "name": "Core Burn Tone & Sculpt",
-          "start": "2026-11-05T12:00:00-05:00",
-          "end": "2026-11-05T12:50:00-05:00",
-          "instructor": "Gillian Tahajian",
-          "spotsLeft": 13,
-          "capacity": 14,
-          "bookingURL": "https://momence.com/s/143518746",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/core-burn-pilates-west-8th/125645308",
-          "name": "Core Burn Tone & Sculpt",
-          "start": "2026-11-05T13:00:00-05:00",
-          "end": "2026-11-05T13:50:00-05:00",
-          "instructor": "Anne Maung",
-          "spotsLeft": 14,
-          "capacity": 14,
-          "bookingURL": "https://momence.com/s/125645308",
           "kind": "class"
         },
         {
@@ -215,7 +505,7 @@
           "start": "2026-11-05T17:30:00-05:00",
           "end": "2026-11-05T18:20:00-05:00",
           "instructor": "Keilaa-Demi De La Cruz",
-          "spotsLeft": 7,
+          "spotsLeft": 6,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/125658987",
           "kind": "class"
@@ -226,7 +516,7 @@
           "start": "2026-11-05T18:30:00-05:00",
           "end": "2026-11-05T19:20:00-05:00",
           "instructor": "Adriana Curtis",
-          "spotsLeft": 8,
+          "spotsLeft": 7,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/125662683",
           "kind": "class"
@@ -237,7 +527,7 @@
           "start": "2026-11-05T19:30:00-05:00",
           "end": "2026-11-05T20:20:00-05:00",
           "instructor": "Adriana Curtis",
-          "spotsLeft": 14,
+          "spotsLeft": 13,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/125664503",
           "kind": "class"
@@ -270,20 +560,9 @@
           "start": "2026-11-06T08:30:00-05:00",
           "end": "2026-11-06T09:20:00-05:00",
           "instructor": "Anna Baker",
-          "spotsLeft": 7,
+          "spotsLeft": 6,
           "capacity": 11,
           "bookingURL": "https://momence.com/s/125680110",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/core-burn-pilates-west-8th/125681971",
-          "name": "Core Burn Tone & Sculpt",
-          "start": "2026-11-06T09:30:00-05:00",
-          "end": "2026-11-06T10:20:00-05:00",
-          "instructor": "Lauren Feldman",
-          "spotsLeft": 13,
-          "capacity": 14,
-          "bookingURL": "https://momence.com/s/125681971",
           "kind": "class"
         },
         {
@@ -292,7 +571,7 @@
           "start": "2026-11-06T10:30:00-05:00",
           "end": "2026-11-06T11:20:00-05:00",
           "instructor": "Lauren Feldman",
-          "spotsLeft": 13,
+          "spotsLeft": 12,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/125683909",
           "kind": "class"
@@ -303,7 +582,7 @@
           "start": "2026-11-06T12:00:00-05:00",
           "end": "2026-11-06T12:50:00-05:00",
           "instructor": "Anne Maung",
-          "spotsLeft": 13,
+          "spotsLeft": 12,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/125686730",
           "kind": "class"
@@ -336,7 +615,7 @@
           "start": "2026-11-06T15:30:00-05:00",
           "end": "2026-11-06T16:20:00-05:00",
           "instructor": "Anne Maung",
-          "spotsLeft": 11,
+          "spotsLeft": 12,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/125692422",
           "kind": "class"
@@ -391,7 +670,7 @@
           "start": "2026-11-07T10:00:00-05:00",
           "end": "2026-11-07T10:50:00-05:00",
           "instructor": "Anne Maung",
-          "spotsLeft": 10,
+          "spotsLeft": 9,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/125711146",
           "kind": "class"
@@ -402,7 +681,7 @@
           "start": "2026-11-07T11:00:00-05:00",
           "end": "2026-11-07T11:50:00-05:00",
           "instructor": "Anne Maung",
-          "spotsLeft": 10,
+          "spotsLeft": 11,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/125712592",
           "kind": "class"
@@ -468,7 +747,7 @@
           "start": "2026-11-08T11:00:00-05:00",
           "end": "2026-11-08T11:50:00-05:00",
           "instructor": "Keilaa-Demi De La Cruz",
-          "spotsLeft": 12,
+          "spotsLeft": 11,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/125734760",
           "kind": "class"
@@ -556,7 +835,7 @@
           "start": "2026-11-09T06:30:00-05:00",
           "end": "2026-11-09T07:20:00-05:00",
           "instructor": "Colleen O'Connor",
-          "spotsLeft": 12,
+          "spotsLeft": 11,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/125767787",
           "kind": "class"
@@ -780,6 +1059,127 @@
           "capacity": 14,
           "bookingURL": "https://momence.com/s/125869758",
           "kind": "class"
+        },
+        {
+          "id": "nyc/core-burn-pilates-west-8th/126652269",
+          "name": "Core Burn Tone & Sculpt",
+          "start": "2026-11-10T19:30:00-05:00",
+          "end": "2026-11-10T20:20:00-05:00",
+          "instructor": "Anne Maung",
+          "spotsLeft": 14,
+          "capacity": 14,
+          "bookingURL": "https://momence.com/s/126652269",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/core-burn-pilates-west-8th/125890965",
+          "name": "Core Burn Advanced",
+          "start": "2026-11-11T06:30:00-05:00",
+          "end": "2026-11-11T07:20:00-05:00",
+          "instructor": "Colleen O'Connor",
+          "spotsLeft": 12,
+          "capacity": 14,
+          "bookingURL": "https://momence.com/s/125890965",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/core-burn-pilates-west-8th/125892144",
+          "name": "Core Burn Intermediate",
+          "start": "2026-11-11T07:30:00-05:00",
+          "end": "2026-11-11T08:20:00-05:00",
+          "instructor": "Colleen O'Connor",
+          "spotsLeft": 14,
+          "capacity": 14,
+          "bookingURL": "https://momence.com/s/125892144",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/core-burn-pilates-west-8th/125893283",
+          "name": "Core Burn Tone & Sculpt",
+          "start": "2026-11-11T08:30:00-05:00",
+          "end": "2026-11-11T09:20:00-05:00",
+          "instructor": "Lauren Feldman",
+          "spotsLeft": 13,
+          "capacity": 14,
+          "bookingURL": "https://momence.com/s/125893283",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/core-burn-pilates-west-8th/125895635",
+          "name": "Core Burn Tone & Sculpt",
+          "start": "2026-11-11T09:30:00-05:00",
+          "end": "2026-11-11T10:20:00-05:00",
+          "instructor": "Lauren Feldman",
+          "spotsLeft": 14,
+          "capacity": 14,
+          "bookingURL": "https://momence.com/s/125895635",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/core-burn-pilates-west-8th/125897589",
+          "name": "Core Burn Combo",
+          "start": "2026-11-11T10:30:00-05:00",
+          "end": "2026-11-11T11:20:00-05:00",
+          "instructor": "Emmy Sammons",
+          "spotsLeft": 13,
+          "capacity": 14,
+          "bookingURL": "https://momence.com/s/125897589",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/core-burn-pilates-west-8th/125903363",
+          "name": "Core Burn Intermediate",
+          "start": "2026-11-11T12:00:00-05:00",
+          "end": "2026-11-11T12:50:00-05:00",
+          "instructor": "Emmy Sammons",
+          "spotsLeft": 13,
+          "capacity": 14,
+          "bookingURL": "https://momence.com/s/125903363",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/core-burn-pilates-west-8th/130290545",
+          "name": "Core Burn Tone & Sculpt",
+          "start": "2026-11-11T15:30:00-05:00",
+          "end": "2026-11-11T16:20:00-05:00",
+          "instructor": "Anne Maung",
+          "spotsLeft": 14,
+          "capacity": 14,
+          "bookingURL": "https://momence.com/s/130290545",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/core-burn-pilates-west-8th/130291020",
+          "name": "Core Burn Tone & Sculpt",
+          "start": "2026-11-11T16:30:00-05:00",
+          "end": "2026-11-11T17:20:00-05:00",
+          "instructor": "Anne Maung",
+          "spotsLeft": 14,
+          "capacity": 14,
+          "bookingURL": "https://momence.com/s/130291020",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/core-burn-pilates-west-8th/125923075",
+          "name": "Core Burn Tone & Sculpt",
+          "start": "2026-11-11T17:30:00-05:00",
+          "end": "2026-11-11T18:20:00-05:00",
+          "instructor": "Anne Maung",
+          "spotsLeft": 13,
+          "capacity": 14,
+          "bookingURL": "https://momence.com/s/125923075",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/core-burn-pilates-west-8th/125926033",
+          "name": "Core Burn Intermediate",
+          "start": "2026-11-11T18:30:00-05:00",
+          "end": "2026-11-11T19:20:00-05:00",
+          "instructor": "Anne Maung",
+          "spotsLeft": 14,
+          "capacity": 14,
+          "bookingURL": "https://momence.com/s/125926033",
+          "kind": "class"
         }
       ]
     },
@@ -797,67 +1197,12 @@
       "openGym": [],
       "sessions": [
         {
-          "id": "nyc/dou-yoga/138449372",
-          "name": "Yin & Restore",
-          "start": "2026-11-03T20:00:00-05:00",
-          "end": "2026-11-03T21:00:00-05:00",
-          "instructor": "Jolene Festa",
-          "spotsLeft": 16,
-          "capacity": 25,
-          "bookingURL": "https://momence.com/s/138449372",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/dou-yoga/144614431",
-          "name": "Rise & Shine",
-          "start": "2026-11-04T08:00:00-05:00",
-          "end": "2026-11-04T09:00:00-05:00",
-          "instructor": "Emanuela Colella",
-          "spotsLeft": 12,
-          "capacity": 20,
-          "bookingURL": "https://momence.com/s/144614431",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/dou-yoga/126336758",
-          "name": "Mindful Pilates",
-          "start": "2026-11-04T12:00:00-05:00",
-          "end": "2026-11-04T13:00:00-05:00",
-          "instructor": "Tye Trondson",
-          "spotsLeft": 14,
-          "capacity": 20,
-          "bookingURL": "https://momence.com/s/126336758",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/dou-yoga/138498545",
-          "name": "EmPower Flow",
-          "start": "2026-11-04T17:00:00-05:00",
-          "end": "2026-11-04T18:00:00-05:00",
-          "instructor": "Lindsay McLaughin",
-          "spotsLeft": 19,
-          "capacity": 20,
-          "bookingURL": "https://momence.com/s/138498545",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/dou-yoga/138503527",
-          "name": "Mindful Vinyasa",
-          "start": "2026-11-04T18:30:00-05:00",
-          "end": "2026-11-04T19:30:00-05:00",
-          "instructor": "Kate Lieberman",
-          "spotsLeft": 21,
-          "capacity": 25,
-          "bookingURL": "https://momence.com/s/138503527",
-          "kind": "class"
-        },
-        {
           "id": "nyc/dou-yoga/138507776",
           "name": "Flow & Restore",
           "start": "2026-11-04T20:00:00-05:00",
           "end": "2026-11-04T21:00:00-05:00",
           "instructor": "Kate Lieberman",
-          "spotsLeft": 22,
+          "spotsLeft": 20,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/138507776",
           "kind": "class"
@@ -912,7 +1257,7 @@
           "start": "2026-11-05T18:30:00-05:00",
           "end": "2026-11-05T19:30:00-05:00",
           "instructor": "Kimo Gray",
-          "spotsLeft": 24,
+          "spotsLeft": 23,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/138563236",
           "kind": "class"
@@ -1055,7 +1400,7 @@
           "start": "2026-11-08T19:00:00-05:00",
           "end": "2026-11-08T20:00:00-05:00",
           "instructor": "Yasmin Bacchus",
-          "spotsLeft": 19,
+          "spotsLeft": 18,
           "capacity": 20,
           "bookingURL": "https://momence.com/s/146073581",
           "kind": "class"
@@ -1169,6 +1514,72 @@
           "capacity": 25,
           "bookingURL": "https://momence.com/s/138800917",
           "kind": "class"
+        },
+        {
+          "id": "nyc/dou-yoga/138805702",
+          "name": "Yin & Restore",
+          "start": "2026-11-10T20:00:00-05:00",
+          "end": "2026-11-10T21:00:00-05:00",
+          "instructor": "Jolene Festa",
+          "spotsLeft": 25,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/138805702",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/dou-yoga/144614432",
+          "name": "Rise & Shine",
+          "start": "2026-11-11T08:00:00-05:00",
+          "end": "2026-11-11T09:00:00-05:00",
+          "instructor": "Emanuela Colella",
+          "spotsLeft": 19,
+          "capacity": 20,
+          "bookingURL": "https://momence.com/s/144614432",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/dou-yoga/140123885",
+          "name": "Toddler Yoga",
+          "start": "2026-11-11T10:00:00-05:00",
+          "end": "2026-11-11T11:00:00-05:00",
+          "instructor": "Jolene Festa",
+          "spotsLeft": 20,
+          "capacity": 20,
+          "bookingURL": "https://momence.com/s/140123885",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/dou-yoga/126723603",
+          "name": "Mindful Pilates",
+          "start": "2026-11-11T12:00:00-05:00",
+          "end": "2026-11-11T13:00:00-05:00",
+          "instructor": "Tye Trondson",
+          "spotsLeft": 20,
+          "capacity": 20,
+          "bookingURL": "https://momence.com/s/126723603",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/dou-yoga/138860435",
+          "name": "EmPower Flow",
+          "start": "2026-11-11T17:00:00-05:00",
+          "end": "2026-11-11T18:00:00-05:00",
+          "instructor": "Lindsay McLaughin",
+          "spotsLeft": 20,
+          "capacity": 20,
+          "bookingURL": "https://momence.com/s/138860435",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/dou-yoga/138864724",
+          "name": "Mindful Vinyasa",
+          "start": "2026-11-11T18:30:00-05:00",
+          "end": "2026-11-11T19:30:00-05:00",
+          "instructor": "Kate Lieberman",
+          "spotsLeft": 25,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/138864724",
+          "kind": "class"
         }
       ]
     },
@@ -1186,67 +1597,12 @@
       "openGym": [],
       "sessions": [
         {
-          "id": "nyc/ishta-yoga/143436117",
-          "name": "Evening Flow + Yin",
-          "start": "2026-11-03T19:35:00-05:00",
-          "end": "2026-11-03T20:35:00-05:00",
-          "instructor": "Celine Guillaume",
-          "spotsLeft": 18,
-          "capacity": 25,
-          "bookingURL": "https://momence.com/s/143436117",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/ishta-yoga/145454335",
-          "name": "All Levels",
-          "start": "2026-11-04T09:00:00-05:00",
-          "end": "2026-11-04T10:00:00-05:00",
-          "instructor": "Amy Coombs",
-          "spotsLeft": 23,
-          "capacity": 25,
-          "bookingURL": "https://momence.com/s/145454335",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/ishta-yoga/125589891",
-          "name": "All Levels with Yoga Nidra",
-          "start": "2026-11-04T12:30:00-05:00",
-          "end": "2026-11-04T13:45:00-05:00",
-          "instructor": "Andrea Lynch",
-          "spotsLeft": 20,
-          "capacity": 28,
-          "bookingURL": "https://momence.com/s/125589891",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/ishta-yoga/125593542",
-          "name": "Restorative",
-          "start": "2026-11-04T14:00:00-05:00",
-          "end": "2026-11-04T15:00:00-05:00",
-          "instructor": "Andrea Lynch",
-          "spotsLeft": 18,
-          "capacity": 22,
-          "bookingURL": "https://momence.com/s/125593542",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/ishta-yoga/125604035",
-          "name": "Flow + Restore",
-          "start": "2026-11-04T18:15:00-05:00",
-          "end": "2026-11-04T19:15:00-05:00",
-          "instructor": "Elena Skovorodko",
-          "spotsLeft": 19,
-          "capacity": 25,
-          "bookingURL": "https://momence.com/s/125604035",
-          "kind": "class"
-        },
-        {
           "id": "nyc/ishta-yoga/125608589",
           "name": "Stretch + Restore with Sound Bath",
           "start": "2026-11-04T19:30:00-05:00",
           "end": "2026-11-04T20:30:00-05:00",
           "instructor": "Elena Skovorodko",
-          "spotsLeft": 15,
+          "spotsLeft": 10,
           "capacity": 22,
           "bookingURL": "https://momence.com/s/125608589",
           "kind": "class"
@@ -1268,7 +1624,7 @@
           "start": "2026-11-05T09:30:00-05:00",
           "end": "2026-11-05T10:30:00-05:00",
           "instructor": "Kelly Eudailey",
-          "spotsLeft": 17,
+          "spotsLeft": 16,
           "capacity": 22,
           "bookingURL": "https://momence.com/s/125639440",
           "kind": "class"
@@ -1290,7 +1646,7 @@
           "start": "2026-11-05T12:30:00-05:00",
           "end": "2026-11-05T13:30:00-05:00",
           "instructor": "Peter Ferko",
-          "spotsLeft": 24,
+          "spotsLeft": 23,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/125646583",
           "kind": "class"
@@ -1499,7 +1855,7 @@
           "start": "2026-11-09T18:15:00-05:00",
           "end": "2026-11-09T19:15:00-05:00",
           "instructor": "Elissa Lewis",
-          "spotsLeft": 24,
+          "spotsLeft": 23,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/143713501",
           "kind": "class"
@@ -1569,6 +1925,61 @@
           "capacity": 28,
           "bookingURL": "https://momence.com/s/125868822",
           "kind": "class"
+        },
+        {
+          "id": "nyc/ishta-yoga/143782190",
+          "name": "Evening Flow + Yin",
+          "start": "2026-11-10T19:35:00-05:00",
+          "end": "2026-11-10T20:35:00-05:00",
+          "instructor": "Celine Guillaume",
+          "spotsLeft": 25,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/143782190",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/ishta-yoga/145454336",
+          "name": "All Levels",
+          "start": "2026-11-11T09:00:00-05:00",
+          "end": "2026-11-11T10:00:00-05:00",
+          "instructor": "Amy Coombs",
+          "spotsLeft": 25,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/145454336",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/ishta-yoga/125905891",
+          "name": "All Levels with Yoga Nidra",
+          "start": "2026-11-11T12:30:00-05:00",
+          "end": "2026-11-11T13:45:00-05:00",
+          "instructor": "Mona Anand",
+          "spotsLeft": 25,
+          "capacity": 28,
+          "bookingURL": "https://momence.com/s/125905891",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/ishta-yoga/125909988",
+          "name": "Restorative",
+          "start": "2026-11-11T14:00:00-05:00",
+          "end": "2026-11-11T15:00:00-05:00",
+          "instructor": "Andrea Lynch",
+          "spotsLeft": 20,
+          "capacity": 22,
+          "bookingURL": "https://momence.com/s/125909988",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/ishta-yoga/125925400",
+          "name": "Flow + Restore",
+          "start": "2026-11-11T18:15:00-05:00",
+          "end": "2026-11-11T19:15:00-05:00",
+          "instructor": "Elena Skovorodko",
+          "spotsLeft": 21,
+          "capacity": 25,
+          "bookingURL": "https://momence.com/s/125925400",
+          "kind": "class"
         }
       ]
     },
@@ -1586,72 +1997,6 @@
       "openGym": [],
       "sessions": [
         {
-          "id": "nyc/real-pilates-tribeca/144562709",
-          "name": "4-Real: Tower",
-          "start": "2026-11-04T07:00:00-05:00",
-          "end": "2026-11-04T07:50:00-05:00",
-          "instructor": "Rob Denton",
-          "spotsLeft": 2,
-          "capacity": 4,
-          "bookingURL": "https://momence.com/s/144562709",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/real-pilates-tribeca/127340189",
-          "name": "Reformer",
-          "start": "2026-11-04T10:00:00-05:00",
-          "end": "2026-11-04T10:45:00-05:00",
-          "instructor": "Keykey Gu",
-          "spotsLeft": 0,
-          "capacity": 6,
-          "bookingURL": "https://momence.com/s/127340189",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/real-pilates-tribeca/127356101",
-          "name": "Tower",
-          "start": "2026-11-04T13:00:00-05:00",
-          "end": "2026-11-04T13:50:00-05:00",
-          "instructor": "Melissa Castro Schmidt",
-          "spotsLeft": 3,
-          "capacity": 11,
-          "bookingURL": "https://momence.com/s/127356101",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/real-pilates-tribeca/144233653",
-          "name": "Real Deal - $15 Reformer Class (Teacher in Training)",
-          "start": "2026-11-04T14:00:00-05:00",
-          "end": "2026-11-04T14:45:00-05:00",
-          "instructor": "Kiki O'Brien",
-          "spotsLeft": 2,
-          "capacity": 6,
-          "bookingURL": "https://momence.com/s/144233653",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/real-pilates-tribeca/127340626",
-          "name": "Reformer",
-          "start": "2026-11-04T17:15:00-05:00",
-          "end": "2026-11-04T18:00:00-05:00",
-          "instructor": "Vasilisa Mikhaylyuk",
-          "spotsLeft": 7,
-          "capacity": 8,
-          "bookingURL": "https://momence.com/s/127340626",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/real-pilates-tribeca/130659668",
-          "name": "Tower",
-          "start": "2026-11-04T18:00:00-05:00",
-          "end": "2026-11-04T18:45:00-05:00",
-          "instructor": "Jinju Hong",
-          "spotsLeft": 6,
-          "capacity": 8,
-          "bookingURL": "https://momence.com/s/130659668",
-          "kind": "class"
-        },
-        {
           "id": "nyc/real-pilates-tribeca/134940015",
           "name": "Tower",
           "start": "2026-11-05T09:00:00-05:00",
@@ -1668,7 +2013,7 @@
           "start": "2026-11-05T10:00:00-05:00",
           "end": "2026-11-05T10:50:00-05:00",
           "instructor": "Finlay Doyle",
-          "spotsLeft": 2,
+          "spotsLeft": 1,
           "capacity": 4,
           "bookingURL": "https://momence.com/s/127341874",
           "kind": "class"
@@ -1800,7 +2145,7 @@
           "start": "2026-11-08T11:00:00-05:00",
           "end": "2026-11-08T11:45:00-05:00",
           "instructor": "Jenavieve Adams",
-          "spotsLeft": 1,
+          "spotsLeft": 0,
           "capacity": 6,
           "bookingURL": "https://momence.com/s/133680687",
           "kind": "class"
@@ -1925,6 +2270,61 @@
           "capacity": 5,
           "bookingURL": "https://momence.com/s/127339896",
           "kind": "class"
+        },
+        {
+          "id": "nyc/real-pilates-tribeca/127340180",
+          "name": "Reformer",
+          "start": "2026-11-11T10:00:00-05:00",
+          "end": "2026-11-11T10:45:00-05:00",
+          "instructor": "Keykey Gu",
+          "spotsLeft": 4,
+          "capacity": 6,
+          "bookingURL": "https://momence.com/s/127340180",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/real-pilates-tribeca/127356106",
+          "name": "Tower",
+          "start": "2026-11-11T13:00:00-05:00",
+          "end": "2026-11-11T13:50:00-05:00",
+          "instructor": "Melissa Castro Schmidt",
+          "spotsLeft": 11,
+          "capacity": 11,
+          "bookingURL": "https://momence.com/s/127356106",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/real-pilates-tribeca/144233654",
+          "name": "Real Deal - $15 Reformer Class (Teacher in Training)",
+          "start": "2026-11-11T14:00:00-05:00",
+          "end": "2026-11-11T14:45:00-05:00",
+          "instructor": "Kiki O'Brien",
+          "spotsLeft": 5,
+          "capacity": 6,
+          "bookingURL": "https://momence.com/s/144233654",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/real-pilates-tribeca/127340629",
+          "name": "Reformer",
+          "start": "2026-11-11T17:15:00-05:00",
+          "end": "2026-11-11T18:00:00-05:00",
+          "instructor": "Vasilisa Mikhaylyuk",
+          "spotsLeft": 7,
+          "capacity": 8,
+          "bookingURL": "https://momence.com/s/127340629",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/real-pilates-tribeca/130659669",
+          "name": "Tower",
+          "start": "2026-11-11T18:00:00-05:00",
+          "end": "2026-11-11T18:45:00-05:00",
+          "instructor": "Jinju Hong",
+          "spotsLeft": 8,
+          "capacity": 8,
+          "bookingURL": "https://momence.com/s/130659669",
+          "kind": "class"
         }
       ]
     },
@@ -1942,89 +2342,12 @@
       "openGym": [],
       "sessions": [
         {
-          "id": "nyc/2nd-story-pilates-yoga/131012416",
-          "name": "Pilates Mat: The Classics",
-          "start": "2026-11-03T19:00:00-05:00",
-          "end": "2026-11-03T20:00:00-05:00",
-          "instructor": "Kaitlin Murray",
-          "spotsLeft": 0,
-          "capacity": 11,
-          "bookingURL": "https://momence.com/s/131012416",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/2nd-story-pilates-yoga/131012571",
-          "name": "Sunrise 45: Vinyasa Yoga",
-          "start": "2026-11-04T07:00:00-05:00",
-          "end": "2026-11-04T07:45:00-05:00",
-          "instructor": "Annamaria Santamaria",
-          "spotsLeft": 2,
-          "capacity": 11,
-          "bookingURL": "https://momence.com/s/131012571",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/2nd-story-pilates-yoga/130951646",
-          "name": "Intermediate Vinyasa Yoga",
-          "start": "2026-11-04T08:00:00-05:00",
-          "end": "2026-11-04T09:15:00-05:00",
-          "instructor": "Elaine O’Brien",
-          "spotsLeft": 2,
-          "capacity": 11,
-          "bookingURL": "https://momence.com/s/130951646",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/2nd-story-pilates-yoga/130951769",
-          "name": "Pilates Equipment For Seniors",
-          "start": "2026-11-04T10:30:00-05:00",
-          "end": "2026-11-04T11:30:00-05:00",
-          "instructor": "Noel MacDuffie",
-          "spotsLeft": 0,
-          "capacity": 4,
-          "bookingURL": "https://momence.com/s/130951769",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/2nd-story-pilates-yoga/131012654",
-          "name": "Long + Strong Pilates Equipment",
-          "start": "2026-11-04T17:30:00-05:00",
-          "end": "2026-11-04T18:30:00-05:00",
-          "instructor": "Sandy Tillett",
-          "spotsLeft": 1,
-          "capacity": 4,
-          "bookingURL": "https://momence.com/s/131012654",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/2nd-story-pilates-yoga/131012716",
-          "name": "Open Level Vinyasa Yoga",
-          "start": "2026-11-04T17:45:00-05:00",
-          "end": "2026-11-04T18:45:00-05:00",
-          "instructor": "Joshua Gonzalez",
-          "spotsLeft": 5,
-          "capacity": 11,
-          "bookingURL": "https://momence.com/s/131012716",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/2nd-story-pilates-yoga/130952442",
-          "name": "Pilates Springboard Flow",
-          "start": "2026-11-04T18:45:00-05:00",
-          "end": "2026-11-04T19:45:00-05:00",
-          "instructor": "Sandy Tillett",
-          "spotsLeft": 2,
-          "capacity": 4,
-          "bookingURL": "https://momence.com/s/130952442",
-          "kind": "class"
-        },
-        {
           "id": "nyc/2nd-story-pilates-yoga/131012767",
           "name": "Pilates Mat: Core Integration",
           "start": "2026-11-04T19:00:00-05:00",
           "end": "2026-11-04T20:00:00-05:00",
           "instructor": "Joshua Gonzalez",
-          "spotsLeft": 7,
+          "spotsLeft": 6,
           "capacity": 11,
           "bookingURL": "https://momence.com/s/131012767",
           "kind": "class"
@@ -2068,7 +2391,7 @@
           "start": "2026-11-05T17:15:00-05:00",
           "end": "2026-11-05T18:15:00-05:00",
           "instructor": "Jo C",
-          "spotsLeft": 6,
+          "spotsLeft": 3,
           "capacity": 11,
           "bookingURL": "https://momence.com/s/143228811",
           "kind": "class"
@@ -2079,7 +2402,7 @@
           "start": "2026-11-05T20:00:00-05:00",
           "end": "2026-11-05T21:00:00-05:00",
           "instructor": "Anna Picagli",
-          "spotsLeft": 7,
+          "spotsLeft": 5,
           "capacity": 11,
           "bookingURL": "https://momence.com/s/130955104",
           "kind": "class"
@@ -2156,7 +2479,7 @@
           "start": "2026-11-07T11:15:00-05:00",
           "end": "2026-11-07T12:15:00-05:00",
           "instructor": "Jo C",
-          "spotsLeft": 2,
+          "spotsLeft": 1,
           "capacity": 4,
           "bookingURL": "https://momence.com/s/131013595",
           "kind": "class"
@@ -2313,6 +2636,83 @@
           "spotsLeft": 7,
           "capacity": 11,
           "bookingURL": "https://momence.com/s/130951031",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/2nd-story-pilates-yoga/131012394",
+          "name": "Pilates Mat: The Classics",
+          "start": "2026-11-10T19:00:00-05:00",
+          "end": "2026-11-10T20:00:00-05:00",
+          "instructor": "Molly McGaughran",
+          "spotsLeft": 0,
+          "capacity": 11,
+          "bookingURL": "https://momence.com/s/131012394",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/2nd-story-pilates-yoga/131012578",
+          "name": "Sunrise 45: Vinyasa Yoga",
+          "start": "2026-11-11T07:00:00-05:00",
+          "end": "2026-11-11T07:45:00-05:00",
+          "instructor": "Annamaria Santamaria",
+          "spotsLeft": 4,
+          "capacity": 11,
+          "bookingURL": "https://momence.com/s/131012578",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/2nd-story-pilates-yoga/130951635",
+          "name": "Intermediate Vinyasa Yoga",
+          "start": "2026-11-11T08:00:00-05:00",
+          "end": "2026-11-11T09:15:00-05:00",
+          "instructor": "Elaine O’Brien",
+          "spotsLeft": 0,
+          "capacity": 11,
+          "bookingURL": "https://momence.com/s/130951635",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/2nd-story-pilates-yoga/130951770",
+          "name": "Pilates Equipment For Seniors",
+          "start": "2026-11-11T10:30:00-05:00",
+          "end": "2026-11-11T11:30:00-05:00",
+          "instructor": "Noel MacDuffie",
+          "spotsLeft": 1,
+          "capacity": 4,
+          "bookingURL": "https://momence.com/s/130951770",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/2nd-story-pilates-yoga/131012646",
+          "name": "Long + Strong Pilates Equipment",
+          "start": "2026-11-11T17:30:00-05:00",
+          "end": "2026-11-11T18:30:00-05:00",
+          "instructor": "Sandy Tillett",
+          "spotsLeft": 3,
+          "capacity": 4,
+          "bookingURL": "https://momence.com/s/131012646",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/2nd-story-pilates-yoga/131012711",
+          "name": "Open Level Vinyasa Yoga",
+          "start": "2026-11-11T17:45:00-05:00",
+          "end": "2026-11-11T18:45:00-05:00",
+          "instructor": "Roberta Villalon",
+          "spotsLeft": 7,
+          "capacity": 11,
+          "bookingURL": "https://momence.com/s/131012711",
+          "kind": "class"
+        },
+        {
+          "id": "nyc/2nd-story-pilates-yoga/130952444",
+          "name": "Pilates Springboard Flow",
+          "start": "2026-11-11T18:45:00-05:00",
+          "end": "2026-11-11T19:45:00-05:00",
+          "instructor": "Sandy Tillett",
+          "spotsLeft": 3,
+          "capacity": 4,
+          "bookingURL": "https://momence.com/s/130952444",
           "kind": "class"
         }
       ]
