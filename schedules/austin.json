@@ -7,7 +7,7 @@
     "lon": -97.7431
   },
   "radiusKm": 40.0,
-  "generatedAt": "2026-11-05T00:53:24+00:00",
+  "generatedAt": "2026-11-05T12:15:50+00:00",
   "venues": [
     {
       "id": "austin/practice-yoga-austin",
@@ -39,7 +39,7 @@
           "start": "2026-11-04T19:30:00-06:00",
           "end": "2026-11-04T20:30:00-06:00",
           "instructor": "Tyler Griffith",
-          "spotsLeft": 32,
+          "spotsLeft": 28,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125610467",
           "kind": "class"
@@ -83,7 +83,7 @@
           "start": "2026-11-05T12:00:00-06:00",
           "end": "2026-11-05T13:00:00-06:00",
           "instructor": "Iva Drtina-Hall",
-          "spotsLeft": 37,
+          "spotsLeft": 35,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125647726",
           "kind": "class"
@@ -248,7 +248,7 @@
           "start": "2026-11-07T10:30:00-06:00",
           "end": "2026-11-07T11:30:00-06:00",
           "instructor": "Marnie Castor",
-          "spotsLeft": 50,
+          "spotsLeft": 49,
           "capacity": 52,
           "bookingURL": "https://momence.com/s/125713486",
           "kind": "class"
@@ -292,7 +292,7 @@
           "start": "2026-11-08T09:00:00-06:00",
           "end": "2026-11-08T10:00:00-06:00",
           "instructor": "Jenn Wooten",
-          "spotsLeft": 36,
+          "spotsLeft": 35,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125732897",
           "kind": "class"
@@ -637,7 +637,7 @@
           "start": "2026-11-07T08:15:00-06:00",
           "end": "2026-11-07T09:00:00-06:00",
           "instructor": "Chelsea Moore",
-          "spotsLeft": 8,
+          "spotsLeft": 7,
           "capacity": 10,
           "bookingURL": "https://momence.com/s/139018931",
           "kind": "class"
@@ -681,7 +681,7 @@
           "start": "2026-11-09T07:00:00-06:00",
           "end": "2026-11-09T07:45:00-06:00",
           "instructor": "Celia Tise",
-          "spotsLeft": 5,
+          "spotsLeft": 2,
           "capacity": 10,
           "bookingURL": "https://momence.com/s/138714243",
           "kind": "class"
@@ -692,7 +692,7 @@
           "start": "2026-11-11T07:00:00-06:00",
           "end": "2026-11-11T07:45:00-06:00",
           "instructor": "Celia Tise",
-          "spotsLeft": 10,
+          "spotsLeft": 7,
           "capacity": 10,
           "bookingURL": "https://momence.com/s/138446526",
           "kind": "class"
