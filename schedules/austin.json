@@ -7,7 +7,7 @@
     "lon": -97.7431
   },
   "radiusKm": 40.0,
-  "generatedAt": "2026-11-10T02:43:37+00:00",
+  "generatedAt": "2026-11-10T12:34:45+00:00",
   "venues": [
     {
       "id": "austin/practice-yoga-austin",
@@ -50,7 +50,7 @@
           "start": "2026-11-10T07:15:00-06:00",
           "end": "2026-11-10T08:15:00-06:00",
           "instructor": "Susan Quesal",
-          "spotsLeft": 35,
+          "spotsLeft": 31,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125842817",
           "kind": "class"
@@ -160,7 +160,7 @@
           "start": "2026-11-11T10:30:00-06:00",
           "end": "2026-11-11T11:30:00-06:00",
           "instructor": "Maggie Anbalagan",
-          "spotsLeft": 39,
+          "spotsLeft": 38,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125901584",
           "kind": "class"
@@ -204,7 +204,7 @@
           "start": "2026-11-11T18:00:00-06:00",
           "end": "2026-11-11T19:15:00-06:00",
           "instructor": "G'Nell Price",
-          "spotsLeft": 35,
+          "spotsLeft": 34,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/125934345",
           "kind": "class"
@@ -314,7 +314,7 @@
           "start": "2026-11-13T07:15:00-06:00",
           "end": "2026-11-13T08:15:00-06:00",
           "instructor": "Tyler Griffith",
-          "spotsLeft": 38,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/126047279",
           "kind": "class"
@@ -424,7 +424,7 @@
           "start": "2026-11-14T10:30:00-06:00",
           "end": "2026-11-14T11:30:00-06:00",
           "instructor": "Marnie Castor",
-          "spotsLeft": 47,
+          "spotsLeft": 48,
           "capacity": 52,
           "bookingURL": "https://momence.com/s/126097329",
           "kind": "class"
@@ -446,7 +446,7 @@
           "start": "2026-11-14T13:15:00-06:00",
           "end": "2026-11-14T14:15:00-06:00",
           "instructor": "Hannah Finnegan",
-          "spotsLeft": 37,
+          "spotsLeft": 38,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/126100290",
           "kind": "class"
@@ -626,7 +626,7 @@
           "start": "2026-11-13T07:00:00-06:00",
           "end": "2026-11-13T07:45:00-06:00",
           "instructor": "Alexa Ball",
-          "spotsLeft": 8,
+          "spotsLeft": 7,
           "capacity": 10,
           "bookingURL": "https://momence.com/s/141535396",
           "kind": "class"
@@ -651,6 +651,17 @@
           "spotsLeft": 7,
           "capacity": 10,
           "bookingURL": "https://momence.com/s/146895438",
+          "kind": "class"
+        },
+        {
+          "id": "austin/ro-fitness/138714244",
+          "name": "Sunrise Cardio Rō",
+          "start": "2026-11-16T07:00:00-06:00",
+          "end": "2026-11-16T07:45:00-06:00",
+          "instructor": "Celia Tise",
+          "spotsLeft": 10,
+          "capacity": 10,
+          "bookingURL": "https://momence.com/s/138714244",
           "kind": "class"
         }
       ]
