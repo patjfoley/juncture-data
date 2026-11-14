@@ -7,7 +7,7 @@
     "lon": -97.7431
   },
   "radiusKm": 40.0,
-  "generatedAt": "2026-11-14T00:52:25+00:00",
+  "generatedAt": "2026-11-14T11:25:39+00:00",
   "venues": [
     {
       "id": "austin/practice-yoga-austin",
@@ -39,7 +39,7 @@
           "start": "2026-11-13T19:30:00-06:00",
           "end": "2026-11-13T20:30:00-06:00",
           "instructor": "Audrey Moore",
-          "spotsLeft": 38,
+          "spotsLeft": 35,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/126076016",
           "kind": "class"
@@ -50,7 +50,7 @@
           "start": "2026-11-14T07:45:00-06:00",
           "end": "2026-11-14T08:45:00-06:00",
           "instructor": "Jenni Bacich",
-          "spotsLeft": 36,
+          "spotsLeft": 35,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/126093034",
           "kind": "class"
@@ -61,7 +61,7 @@
           "start": "2026-11-14T09:00:00-06:00",
           "end": "2026-11-14T10:00:00-06:00",
           "instructor": "Hannah Finnegan",
-          "spotsLeft": 32,
+          "spotsLeft": 31,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/126095170",
           "kind": "class"
@@ -72,7 +72,7 @@
           "start": "2026-11-14T10:30:00-06:00",
           "end": "2026-11-14T11:30:00-06:00",
           "instructor": "Marnie Castor",
-          "spotsLeft": 43,
+          "spotsLeft": 37,
           "capacity": 52,
           "bookingURL": "https://momence.com/s/126097329",
           "kind": "class"
@@ -83,7 +83,7 @@
           "start": "2026-11-14T12:00:00-06:00",
           "end": "2026-11-14T13:00:00-06:00",
           "instructor": "Tyler Price",
-          "spotsLeft": 30,
+          "spotsLeft": 29,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/126099251",
           "kind": "class"
@@ -127,7 +127,7 @@
           "start": "2026-11-15T10:30:00-06:00",
           "end": "2026-11-15T11:30:00-06:00",
           "instructor": "Laura DeBolt",
-          "spotsLeft": 44,
+          "spotsLeft": 41,
           "capacity": 45,
           "bookingURL": "https://momence.com/s/126119074",
           "kind": "class"
