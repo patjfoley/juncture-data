@@ -7,7 +7,7 @@
     "lon": -73.9866
   },
   "radiusKm": 30.0,
-  "generatedAt": "2026-11-15T15:38:08+00:00",
+  "generatedAt": "2026-11-15T21:00:39+00:00",
   "venues": [
     {
       "id": "nyc/physique-57-soho",
@@ -39,7 +39,7 @@
           "start": "2026-11-15T10:00:00-05:00",
           "end": "2026-11-15T11:00:00-05:00",
           "instructor": "Katie McConaughy",
-          "spotsLeft": 10,
+          "spotsLeft": 9,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/144429320",
           "kind": "class"
@@ -50,20 +50,9 @@
           "start": "2026-11-15T11:30:00-05:00",
           "end": "2026-11-15T12:30:00-05:00",
           "instructor": "Katie McConaughy",
-          "spotsLeft": 16,
+          "spotsLeft": 18,
           "capacity": 27,
           "bookingURL": "https://momence.com/s/145243937",
-          "kind": "class"
-        },
-        {
-          "id": "nyc/physique-57-soho/144067990",
-          "name": "Physique Ignite",
-          "start": "2026-11-16T07:00:00-05:00",
-          "end": "2026-11-16T08:00:00-05:00",
-          "instructor": "Torrey Harada",
-          "spotsLeft": 26,
-          "capacity": 27,
-          "bookingURL": "https://momence.com/s/144067990",
           "kind": "class"
         },
         {
@@ -72,7 +61,7 @@
           "start": "2026-11-16T08:15:00-05:00",
           "end": "2026-11-16T09:15:00-05:00",
           "instructor": "Torrey Harada",
-          "spotsLeft": 22,
+          "spotsLeft": 21,
           "capacity": 27,
           "bookingURL": "https://momence.com/s/144475870",
           "kind": "class"
@@ -83,7 +72,7 @@
           "start": "2026-11-16T09:30:00-05:00",
           "end": "2026-11-16T10:30:00-05:00",
           "instructor": "Evita Zacharioglou",
-          "spotsLeft": 23,
+          "spotsLeft": 21,
           "capacity": 27,
           "bookingURL": "https://momence.com/s/144480929",
           "kind": "class"
@@ -116,7 +105,7 @@
           "start": "2026-11-16T18:30:00-05:00",
           "end": "2026-11-16T19:30:00-05:00",
           "instructor": "Grace Crugnale",
-          "spotsLeft": 25,
+          "spotsLeft": 24,
           "capacity": 27,
           "bookingURL": "https://momence.com/s/144513059",
           "kind": "class"
@@ -149,7 +138,7 @@
           "start": "2026-11-17T09:30:00-05:00",
           "end": "2026-11-17T10:30:00-05:00",
           "instructor": "Megan Dillon",
-          "spotsLeft": 26,
+          "spotsLeft": 25,
           "capacity": 27,
           "bookingURL": "https://momence.com/s/144550494",
           "kind": "class"
@@ -171,7 +160,7 @@
           "start": "2026-11-17T17:15:00-05:00",
           "end": "2026-11-17T18:15:00-05:00",
           "instructor": "Emma Smith",
-          "spotsLeft": 21,
+          "spotsLeft": 19,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/144575410",
           "kind": "class"
@@ -193,7 +182,7 @@
           "start": "2026-11-18T08:15:00-05:00",
           "end": "2026-11-18T09:15:00-05:00",
           "instructor": "Megan Dillon",
-          "spotsLeft": 22,
+          "spotsLeft": 21,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/144607461",
           "kind": "class"
@@ -204,7 +193,7 @@
           "start": "2026-11-18T09:30:00-05:00",
           "end": "2026-11-18T10:30:00-05:00",
           "instructor": "Megan Dillon",
-          "spotsLeft": 24,
+          "spotsLeft": 23,
           "capacity": 27,
           "bookingURL": "https://momence.com/s/144612563",
           "kind": "class"
@@ -226,7 +215,7 @@
           "start": "2026-11-18T17:15:00-05:00",
           "end": "2026-11-18T18:15:00-05:00",
           "instructor": "Grace Crugnale",
-          "spotsLeft": 27,
+          "spotsLeft": 26,
           "capacity": 27,
           "bookingURL": "https://momence.com/s/144646307",
           "kind": "class"
@@ -237,7 +226,7 @@
           "start": "2026-11-18T18:15:00-05:00",
           "end": "2026-11-18T19:15:00-05:00",
           "instructor": "Grace Crugnale",
-          "spotsLeft": 22,
+          "spotsLeft": 21,
           "capacity": 27,
           "bookingURL": "https://momence.com/s/144655965",
           "kind": "class"
@@ -281,7 +270,7 @@
           "start": "2026-11-19T09:30:00-05:00",
           "end": "2026-11-19T10:30:00-05:00",
           "instructor": "Mark Willis",
-          "spotsLeft": 23,
+          "spotsLeft": 22,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/144703541",
           "kind": "class"
@@ -314,7 +303,7 @@
           "start": "2026-11-19T18:30:00-05:00",
           "end": "2026-11-19T19:30:00-05:00",
           "instructor": "Jarred Bosch",
-          "spotsLeft": 22,
+          "spotsLeft": 21,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/145536121",
           "kind": "class"
@@ -347,7 +336,7 @@
           "start": "2026-11-20T09:30:00-05:00",
           "end": "2026-11-20T10:30:00-05:00",
           "instructor": "Megan Dillon",
-          "spotsLeft": 22,
+          "spotsLeft": 21,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/144764395",
           "kind": "class"
@@ -358,7 +347,7 @@
           "start": "2026-11-20T10:45:00-05:00",
           "end": "2026-11-20T11:45:00-05:00",
           "instructor": "Megan Dillon",
-          "spotsLeft": 25,
+          "spotsLeft": 24,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/144769355",
           "kind": "class"
@@ -380,7 +369,7 @@
           "start": "2026-11-21T10:15:00-05:00",
           "end": "2026-11-21T11:15:00-05:00",
           "instructor": "Kerrie Melissaratos",
-          "spotsLeft": 23,
+          "spotsLeft": 22,
           "capacity": 27,
           "bookingURL": "https://momence.com/s/144814331",
           "kind": "class"
@@ -417,7 +406,7 @@
           "start": "2026-11-15T09:00:00-05:00",
           "end": "2026-11-15T09:50:00-05:00",
           "instructor": "Alexis Mosier",
-          "spotsLeft": 3,
+          "spotsLeft": 4,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/126115843",
           "kind": "class"
@@ -450,7 +439,7 @@
           "start": "2026-11-15T12:00:00-05:00",
           "end": "2026-11-15T12:50:00-05:00",
           "instructor": "Keilaa-Demi De La Cruz",
-          "spotsLeft": 10,
+          "spotsLeft": 4,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/126119678",
           "kind": "class"
@@ -461,7 +450,7 @@
           "start": "2026-11-15T13:00:00-05:00",
           "end": "2026-11-15T13:50:00-05:00",
           "instructor": "Colleen O'Connor",
-          "spotsLeft": 8,
+          "spotsLeft": 3,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/141191872",
           "kind": "class"
@@ -472,7 +461,7 @@
           "start": "2026-11-15T15:00:00-05:00",
           "end": "2026-11-15T15:50:00-05:00",
           "instructor": "Adriana Curtis",
-          "spotsLeft": 10,
+          "spotsLeft": 4,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/142714694",
           "kind": "class"
@@ -483,7 +472,7 @@
           "start": "2026-11-15T16:00:00-05:00",
           "end": "2026-11-15T16:50:00-05:00",
           "instructor": "Adriana Curtis",
-          "spotsLeft": 9,
+          "spotsLeft": 2,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/142714741",
           "kind": "class"
@@ -493,7 +482,7 @@
           "name": "Core Burn Tone & Sculpt",
           "start": "2026-11-16T06:30:00-05:00",
           "end": "2026-11-16T07:20:00-05:00",
-          "instructor": "Anna Baker",
+          "instructor": "Anne Maung",
           "spotsLeft": 7,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/126186879",
@@ -504,8 +493,8 @@
           "name": "Core Burn Intermediate",
           "start": "2026-11-16T07:30:00-05:00",
           "end": "2026-11-16T08:20:00-05:00",
-          "instructor": "Anna Baker",
-          "spotsLeft": 9,
+          "instructor": "Anne Maung",
+          "spotsLeft": 8,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/126189760",
           "kind": "class"
@@ -515,8 +504,8 @@
           "name": "Core Burn Tower",
           "start": "2026-11-16T08:30:00-05:00",
           "end": "2026-11-16T09:20:00-05:00",
-          "instructor": "Anna Baker",
-          "spotsLeft": 10,
+          "instructor": "Anne Maung",
+          "spotsLeft": 9,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/126190945",
           "kind": "class"
@@ -571,7 +560,7 @@
           "start": "2026-11-16T18:30:00-05:00",
           "end": "2026-11-16T19:20:00-05:00",
           "instructor": "Anne Maung",
-          "spotsLeft": 12,
+          "spotsLeft": 10,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/126226951",
           "kind": "class"
@@ -593,7 +582,7 @@
           "start": "2026-11-17T06:30:00-05:00",
           "end": "2026-11-17T07:20:00-05:00",
           "instructor": "Colleen O'Connor",
-          "spotsLeft": 12,
+          "spotsLeft": 11,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/126263408",
           "kind": "class"
@@ -637,7 +626,7 @@
           "start": "2026-11-17T10:30:00-05:00",
           "end": "2026-11-17T11:20:00-05:00",
           "instructor": "Lauren Feldman",
-          "spotsLeft": 13,
+          "spotsLeft": 12,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/126268534",
           "kind": "class"
@@ -648,7 +637,7 @@
           "start": "2026-11-17T12:00:00-05:00",
           "end": "2026-11-17T12:50:00-05:00",
           "instructor": "Lauren Feldman",
-          "spotsLeft": 12,
+          "spotsLeft": 11,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/126271938",
           "kind": "class"
@@ -670,7 +659,7 @@
           "start": "2026-11-17T17:30:00-05:00",
           "end": "2026-11-17T18:20:00-05:00",
           "instructor": "Anne Maung",
-          "spotsLeft": 11,
+          "spotsLeft": 10,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/126299004",
           "kind": "class"
@@ -714,7 +703,7 @@
           "start": "2026-11-18T07:30:00-05:00",
           "end": "2026-11-18T08:20:00-05:00",
           "instructor": "Colleen O'Connor",
-          "spotsLeft": 14,
+          "spotsLeft": 13,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/126328315",
           "kind": "class"
@@ -780,7 +769,7 @@
           "start": "2026-11-18T17:30:00-05:00",
           "end": "2026-11-18T18:20:00-05:00",
           "instructor": "Anne Maung",
-          "spotsLeft": 10,
+          "spotsLeft": 9,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/126351072",
           "kind": "class"
@@ -846,7 +835,7 @@
           "start": "2026-11-19T09:30:00-05:00",
           "end": "2026-11-19T10:20:00-05:00",
           "instructor": "Anne Maung",
-          "spotsLeft": 12,
+          "spotsLeft": 11,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/126383299",
           "kind": "class"
@@ -901,7 +890,7 @@
           "start": "2026-11-19T18:30:00-05:00",
           "end": "2026-11-19T19:20:00-05:00",
           "instructor": "Jeanne Rockwell",
-          "spotsLeft": 11,
+          "spotsLeft": 10,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/126405203",
           "kind": "class"
@@ -945,7 +934,7 @@
           "start": "2026-11-20T08:30:00-05:00",
           "end": "2026-11-20T09:20:00-05:00",
           "instructor": "Anna Baker",
-          "spotsLeft": 11,
+          "spotsLeft": 10,
           "capacity": 11,
           "bookingURL": "https://momence.com/s/126438151",
           "kind": "class"
@@ -1088,7 +1077,7 @@
           "start": "2026-11-21T13:00:00-05:00",
           "end": "2026-11-21T13:50:00-05:00",
           "instructor": "Core Burn Instructor",
-          "spotsLeft": 14,
+          "spotsLeft": 13,
           "capacity": 14,
           "bookingURL": "https://momence.com/s/126502194",
           "kind": "class"
@@ -1125,7 +1114,7 @@
           "start": "2026-11-15T11:30:00-05:00",
           "end": "2026-11-15T12:45:00-05:00",
           "instructor": "Kate Lieberman",
-          "spotsLeft": 16,
+          "spotsLeft": 11,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/139042243",
           "kind": "class"
@@ -1136,7 +1125,7 @@
           "start": "2026-11-15T17:30:00-05:00",
           "end": "2026-11-15T18:30:00-05:00",
           "instructor": "Emanuela Colella",
-          "spotsLeft": 23,
+          "spotsLeft": 18,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/142826649",
           "kind": "class"
@@ -1147,7 +1136,7 @@
           "start": "2026-11-15T19:00:00-05:00",
           "end": "2026-11-15T20:00:00-05:00",
           "instructor": "Yasmin Bacchus",
-          "spotsLeft": 16,
+          "spotsLeft": 14,
           "capacity": 20,
           "bookingURL": "https://momence.com/s/146073589",
           "kind": "class"
@@ -1191,7 +1180,7 @@
           "start": "2026-11-16T18:30:00-05:00",
           "end": "2026-11-16T19:30:00-05:00",
           "instructor": "Shieri Yamafuji",
-          "spotsLeft": 21,
+          "spotsLeft": 19,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/139108592",
           "kind": "class"
@@ -1312,7 +1301,7 @@
           "start": "2026-11-19T17:00:00-05:00",
           "end": "2026-11-19T18:00:00-05:00",
           "instructor": "Dou Yoga Teacher",
-          "spotsLeft": 24,
+          "spotsLeft": 23,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/139335836",
           "kind": "class"
@@ -1470,7 +1459,7 @@
           "start": "2026-11-15T17:10:00-05:00",
           "end": "2026-11-15T18:10:00-05:00",
           "instructor": "Stephen Mark",
-          "spotsLeft": 0,
+          "spotsLeft": 1,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/126127386",
           "kind": "class"
@@ -1481,7 +1470,7 @@
           "start": "2026-11-15T18:30:00-05:00",
           "end": "2026-11-15T19:30:00-05:00",
           "instructor": "Stephen Mark",
-          "spotsLeft": 5,
+          "spotsLeft": 3,
           "capacity": 28,
           "bookingURL": "https://momence.com/s/126136236",
           "kind": "class"
@@ -1492,7 +1481,7 @@
           "start": "2026-11-16T09:30:00-05:00",
           "end": "2026-11-16T10:45:00-05:00",
           "instructor": "Kelly Eudailey",
-          "spotsLeft": 20,
+          "spotsLeft": 15,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/126192828",
           "kind": "class"
@@ -1569,7 +1558,7 @@
           "start": "2026-11-17T17:00:00-05:00",
           "end": "2026-11-17T18:00:00-05:00",
           "instructor": "Mona Anand",
-          "spotsLeft": 24,
+          "spotsLeft": 23,
           "capacity": 25,
           "bookingURL": "https://momence.com/s/144168281",
           "kind": "class"
@@ -1859,7 +1848,7 @@
           "start": "2026-11-15T12:00:00-05:00",
           "end": "2026-11-15T12:45:00-05:00",
           "instructor": "Shivani Srivastava",
-          "spotsLeft": 7,
+          "spotsLeft": 6,
           "capacity": 10,
           "bookingURL": "https://momence.com/s/127293150",
           "kind": "class"
@@ -1881,7 +1870,7 @@
           "start": "2026-11-16T08:00:00-05:00",
           "end": "2026-11-16T08:50:00-05:00",
           "instructor": "Jenavieve Adams",
-          "spotsLeft": 1,
+          "spotsLeft": 0,
           "capacity": 4,
           "bookingURL": "https://momence.com/s/144315362",
           "kind": "class"
@@ -1892,7 +1881,7 @@
           "start": "2026-11-16T09:00:00-05:00",
           "end": "2026-11-16T09:45:00-05:00",
           "instructor": "Payton Burcham",
-          "spotsLeft": 6,
+          "spotsLeft": 7,
           "capacity": 11,
           "bookingURL": "https://momence.com/s/127294029",
           "kind": "class"
@@ -1903,7 +1892,7 @@
           "start": "2026-11-16T17:00:00-05:00",
           "end": "2026-11-16T17:45:00-05:00",
           "instructor": "Natalia Narz",
-          "spotsLeft": 3,
+          "spotsLeft": 2,
           "capacity": 6,
           "bookingURL": "https://momence.com/s/127294426",
           "kind": "class"
@@ -1914,7 +1903,7 @@
           "start": "2026-11-17T10:00:00-05:00",
           "end": "2026-11-17T10:45:00-05:00",
           "instructor": "Caroline Purdy",
-          "spotsLeft": 5,
+          "spotsLeft": 4,
           "capacity": 6,
           "bookingURL": "https://momence.com/s/127295457",
           "kind": "class"
@@ -1991,7 +1980,7 @@
           "start": "2026-11-18T13:00:00-05:00",
           "end": "2026-11-18T13:50:00-05:00",
           "instructor": "Melissa Castro Schmidt",
-          "spotsLeft": 9,
+          "spotsLeft": 8,
           "capacity": 11,
           "bookingURL": "https://momence.com/s/127356107",
           "kind": "class"
@@ -2046,7 +2035,7 @@
           "start": "2026-11-19T10:00:00-05:00",
           "end": "2026-11-19T10:50:00-05:00",
           "instructor": "Finlay Doyle",
-          "spotsLeft": 4,
+          "spotsLeft": 3,
           "capacity": 4,
           "bookingURL": "https://momence.com/s/127341864",
           "kind": "class"
@@ -2534,7 +2523,7 @@
           "start": "2026-11-21T11:15:00-05:00",
           "end": "2026-11-21T12:15:00-05:00",
           "instructor": "Jo C",
-          "spotsLeft": 3,
+          "spotsLeft": 2,
           "capacity": 4,
           "bookingURL": "https://momence.com/s/131013591",
           "kind": "class"
