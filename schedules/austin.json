@@ -7,7 +7,7 @@
     "lon": -97.7431
   },
   "radiusKm": 40.0,
-  "generatedAt": "2026-11-21T01:28:33+00:00",
+  "generatedAt": "2026-11-21T12:35:06+00:00",
   "venues": [
     {
       "id": "austin/practice-yoga-austin",
@@ -72,7 +72,7 @@
           "start": "2026-11-21T10:30:00-06:00",
           "end": "2026-11-21T11:30:00-06:00",
           "instructor": "Marnie Castor",
-          "spotsLeft": 42,
+          "spotsLeft": 39,
           "capacity": 52,
           "bookingURL": "https://momence.com/s/126500448",
           "kind": "class"
@@ -83,20 +83,9 @@
           "start": "2026-11-21T12:00:00-06:00",
           "end": "2026-11-21T13:00:00-06:00",
           "instructor": "Tyler Price",
-          "spotsLeft": 33,
+          "spotsLeft": 31,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/126502363",
-          "kind": "class"
-        },
-        {
-          "id": "austin/practice-yoga-austin/126503273",
-          "name": "Align + Flow",
-          "start": "2026-11-21T13:15:00-06:00",
-          "end": "2026-11-21T14:15:00-06:00",
-          "instructor": "Hannah Finnegan",
-          "spotsLeft": 38,
-          "capacity": 39,
-          "bookingURL": "https://momence.com/s/126503273",
           "kind": "class"
         },
         {
@@ -127,7 +116,7 @@
           "start": "2026-11-22T10:30:00-06:00",
           "end": "2026-11-22T11:30:00-06:00",
           "instructor": "Kate Ruano",
-          "spotsLeft": 42,
+          "spotsLeft": 41,
           "capacity": 45,
           "bookingURL": "https://momence.com/s/126521351",
           "kind": "class"
@@ -527,7 +516,7 @@
           "start": "2026-11-21T08:15:00-06:00",
           "end": "2026-11-21T09:00:00-06:00",
           "instructor": "Laura Griffith",
-          "spotsLeft": 7,
+          "spotsLeft": 6,
           "capacity": 10,
           "bookingURL": "https://momence.com/s/139018933",
           "kind": "class"
@@ -593,7 +582,7 @@
           "start": "2026-11-27T07:00:00-06:00",
           "end": "2026-11-27T07:45:00-06:00",
           "instructor": "Margaux Bomsta",
-          "spotsLeft": 9,
+          "spotsLeft": 10,
           "capacity": 10,
           "bookingURL": "https://momence.com/s/141535398",
           "kind": "class"
