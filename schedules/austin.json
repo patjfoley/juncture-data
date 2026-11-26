@@ -7,7 +7,7 @@
     "lon": -97.7431
   },
   "radiusKm": 40.0,
-  "generatedAt": "2026-11-26T08:24:39+00:00",
+  "generatedAt": "2026-11-26T21:26:47+00:00",
   "venues": [
     {
       "id": "austin/practice-yoga-austin",
@@ -149,7 +149,7 @@
           "start": "2026-11-28T09:00:00-06:00",
           "end": "2026-11-28T10:00:00-06:00",
           "instructor": "Rey Cardenas",
-          "spotsLeft": 37,
+          "spotsLeft": 36,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/126874395",
           "kind": "class"
@@ -390,7 +390,7 @@
           "name": "Vinyasa",
           "start": "2026-12-01T13:15:00-06:00",
           "end": "2026-12-01T14:15:00-06:00",
-          "instructor": "Kayla Gattoni",
+          "instructor": "Geannie Laura",
           "spotsLeft": 39,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/127024223",
@@ -511,17 +511,6 @@
       "openGym": [],
       "sessions": [
         {
-          "id": "austin/ro-fitness/141535398",
-          "name": "Sunrise Cardio Rō",
-          "start": "2026-11-27T07:00:00-06:00",
-          "end": "2026-11-27T07:45:00-06:00",
-          "instructor": "Margaux Bomsta",
-          "spotsLeft": 9,
-          "capacity": 10,
-          "bookingURL": "https://momence.com/s/141535398",
-          "kind": "class"
-        },
-        {
           "id": "austin/ro-fitness/139018934",
           "name": "Sunrise Cardio Rō",
           "start": "2026-11-28T08:15:00-06:00",
@@ -549,7 +538,7 @@
           "start": "2026-11-29T08:15:00-06:00",
           "end": "2026-11-29T09:00:00-06:00",
           "instructor": "Margaux Bomsta",
-          "spotsLeft": 7,
+          "spotsLeft": 6,
           "capacity": 10,
           "bookingURL": "https://momence.com/s/138714084",
           "kind": "class"
@@ -582,7 +571,7 @@
           "start": "2026-12-02T07:00:00-06:00",
           "end": "2026-12-02T07:45:00-06:00",
           "instructor": "Connor Dent",
-          "spotsLeft": 10,
+          "spotsLeft": 9,
           "capacity": 10,
           "bookingURL": "https://momence.com/s/138446529",
           "kind": "class"
