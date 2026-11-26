@@ -7,7 +7,7 @@
     "lon": -97.7431
   },
   "radiusKm": 40.0,
-  "generatedAt": "2026-11-26T00:17:00+00:00",
+  "generatedAt": "2026-11-26T08:24:39+00:00",
   "venues": [
     {
       "id": "austin/practice-yoga-austin",
@@ -39,7 +39,7 @@
           "start": "2026-11-25T19:30:00-06:00",
           "end": "2026-11-25T20:30:00-06:00",
           "instructor": "Tyler Griffith",
-          "spotsLeft": 36,
+          "spotsLeft": 34,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/126754282",
           "kind": "class"
@@ -83,7 +83,7 @@
           "start": "2026-11-27T12:00:00-06:00",
           "end": "2026-11-27T13:00:00-06:00",
           "instructor": "Jenn Wooten",
-          "spotsLeft": 38,
+          "spotsLeft": 37,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/126848663",
           "kind": "class"
@@ -94,7 +94,7 @@
           "start": "2026-11-27T13:15:00-06:00",
           "end": "2026-11-27T14:15:00-06:00",
           "instructor": "Ari Stiles",
-          "spotsLeft": 39,
+          "spotsLeft": 38,
           "capacity": 39,
           "bookingURL": "https://momence.com/s/126850621",
           "kind": "class"
@@ -105,7 +105,7 @@
           "start": "2026-11-27T16:30:00-06:00",
           "end": "2026-11-27T17:30:00-06:00",
           "instructor": "Vanush Von Love",
-          "spotsLeft": 39,
+          "spotsLeft": 38,
           "capacity": 40,
           "bookingURL": "https://momence.com/s/135328143",
           "kind": "class"
@@ -160,7 +160,7 @@
           "start": "2026-11-28T10:30:00-06:00",
           "end": "2026-11-28T11:30:00-06:00",
           "instructor": "Gil Perez",
-          "spotsLeft": 52,
+          "spotsLeft": 51,
           "capacity": 52,
           "bookingURL": "https://momence.com/s/126878548",
           "kind": "class"
